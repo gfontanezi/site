@@ -1,0 +1,3130 @@
+[
+  {
+    "nome": "Nike SB Dunk Low Pro Crater Dark Grey",
+    "preco": 350.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2542023191350114.webp",
+    "link": "https://droper.app/d/302/Nike_SB_Dunk_Low_Pro_Crater_Dark_Grey",
+    "data_lancamento": "28/out/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Escargot",
+    "preco": 380.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241004010152443-676.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241004010134360-586.webp",
+    "link": "https://droper.app/d/15674/Nike_SB_Dunk_Low_Escargot",
+    "data_lancamento": "10/out/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Navy Gum",
+    "preco": 470.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/532024195617783.webp",
+    "link": "https://droper.app/d/10521/Nike_SB_Dunk_Low_Pro_Navy_Gum",
+    "data_lancamento": "5/mar/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High Kebab & Destroy",
+    "preco": 477.7,
+    "imagem": null,
+    "icone": "https://droper-media.s3.amazonaws.com/136202121201935.png",
+    "link": "https://droper.app/d/1011/Nike_SB_Dunk_High_Kebab___Destroy",
+    "data_lancamento": "13/jun/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Burnt Sunrise",
+    "preco": 478.9,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250403202145445-872.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250403202133723-516.webp",
+    "link": "https://droper.app/d/20898/nike_sb_dunk_low_burnt_sunrise",
+    "data_lancamento": "3/abr/2025"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk High Mallard",
+    "preco": 499.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2022024175814158.webp",
+    "link": "https://droper.app/d/475/Concepts_x_Nike_SB_Dunk_High_Mallard",
+    "data_lancamento": "11/dez/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Adobe",
+    "preco": 500.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/232023165142988.webp",
+    "link": "https://droper.app/d/4581/Nike_SB_Dunk_Low_Adobe",
+    "data_lancamento": "22/fev/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Court Purple",
+    "preco": 500.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1820241301690.webp",
+    "link": "https://droper.app/d/560/Nike_SB_Dunk_Low_Court_Purple",
+    "data_lancamento": "30/jan/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro PRM Seattle Supersonics",
+    "preco": 526.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241212140609154-751.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241212140545905-303.webp",
+    "link": "https://droper.app/d/17584/nike_sb_dunk_low_pro_prm_seattle_supersonics",
+    "data_lancamento": "19/dez/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Test Pattern",
+    "preco": 540.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204152434239-382.webp",
+    "link": "https://droper.app/d/974/Nike_SB_Dunk_High_Pro_Test_Pattern",
+    "data_lancamento": "29/mai/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Desert Ochre and Midnight",
+    "preco": 559.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2552023202532803.webp",
+    "link": "https://droper.app/d/5391/Nike_SB_Dunk_Low_Desert_Ochre_and_Midnight",
+    "data_lancamento": "31/mai/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Black White",
+    "preco": 590.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250228145936286-339.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025022814592464-749.webp",
+    "link": "https://droper.app/d/19887/nike_sb_dunk_low_pro_black_white",
+    "data_lancamento": "6/mar/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Light Carbon Monarch",
+    "preco": 592.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241113183338360-503.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241113183249406-535.webp",
+    "link": "https://droper.app/d/16948/Nike_SB_Dunk_Low_Light_Carbon_Monarch",
+    "data_lancamento": "3/out/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Mystic Red and Rosewood",
+    "preco": 597.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/610202314219342.webp",
+    "link": "https://droper.app/d/7648/Nike_SB_Dunk_Low_Pro_Mystic_Red_and_Rosewood",
+    "data_lancamento": "11/out/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pink Pig",
+    "preco": 598.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202413922475.webp",
+    "link": "https://droper.app/d/569/Nike_SB_Dunk_Low_Pink_Pig",
+    "data_lancamento": "1/fev/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low University Red",
+    "preco": 600.0,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/2182024235659886.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2182024235645867.webp",
+    "link": "https://droper.app/d/14473/Nike_SB_Dunk_Low_University_Red",
+    "data_lancamento": "21/ago/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Phantom and Hyper Royal",
+    "preco": 600.0,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/305202424519101.webp",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/30520242459222.webp",
+    "link": "https://droper.app/d/12599/Nike_SB_Dunk_Low_Pro_Phantom_and_Hyper_Royal",
+    "data_lancamento": "5/jun/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Wheat Mocha",
+    "preco": 600.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/101202413312280.webp",
+    "link": "https://droper.app/d/504/Nike_SB_Dunk_Low_Wheat_Mocha",
+    "data_lancamento": "6/jan/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Strawberry",
+    "preco": 600.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204140524775-660.webp",
+    "link": "https://droper.app/d/1474/Nike_SB_Dunk_High_Pro_Strawberry",
+    "data_lancamento": "26/out/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Muslin",
+    "preco": 600.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022183129525.webp",
+    "link": "https://droper.app/d/143/Nike_SB_Dunk_Low_Muslin",
+    "data_lancamento": "18/abr/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO Black Gum",
+    "preco": 649.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/311202313417579.webp",
+    "link": "https://droper.app/d/4166/Nike_SB_Dunk_Low_Pro_ISO_Black_Gum",
+    "data_lancamento": "31/jan/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Unbleached",
+    "preco": 649.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202413949675.webp",
+    "link": "https://droper.app/d/1307/Nike_SB_Dunk_Low_Unbleached",
+    "data_lancamento": "4/set/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High Truck It Black",
+    "preco": 649.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2542023175327976.webp",
+    "link": "https://droper.app/d/357/Nike_SB_Dunk_High_Truck_It_Black",
+    "data_lancamento": "1/fev/2020"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Pineapple",
+    "preco": 650.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/206202217942759.webp",
+    "link": "https://droper.app/d/2541/Nike_SB_Dunk_High_Pro_Pineapple",
+    "data_lancamento": "24/jun/2022"
+  },
+  {
+    "nome": "Gundam x Nike SB Dunk High Project Banshee RX-0",
+    "preco": 659.0,
+    "imagem": null,
+    "icone": "https://droper-media.s3.amazonaws.com/29920212442919.webp",
+    "link": "https://droper.app/d/1373/Gundam_x_Nike_SB_Dunk_High_Project_Banshee_RX-0",
+    "data_lancamento": "28/set/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Orange Emerald Rise",
+    "preco": 680.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/610202314134250.webp",
+    "link": "https://droper.app/d/7647/Nike_SB_Dunk_Low_Pro_Orange_Emerald_Rise",
+    "data_lancamento": "11/out/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Orange Label White",
+    "preco": 689.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/21320221671149.webp",
+    "link": "https://droper.app/d/1930/Nike_SB_Dunk_Mid_Orange_Label_White",
+    "data_lancamento": "1/mar/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Safari Olympics",
+    "preco": 690.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20240827224510637-709.webp",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/24720242225709.webp",
+    "link": "https://droper.app/d/13734/Nike_SB_Dunk_Low_Pro_Safari_Olympics",
+    "data_lancamento": "9/ago/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Maize and Black",
+    "preco": 699.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025121613430456-172.webp",
+    "link": "https://droper.app/d/1156/nike_sb_dunk_high_pro_maize_and_black",
+    "data_lancamento": "27/jul/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High FPAR",
+    "preco": 699.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2442023193722824.webp",
+    "link": "https://droper.app/d/374/Nike_SB_Dunk_High_FPAR",
+    "data_lancamento": "25/out/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO Orange Label Court Purple",
+    "preco": 699.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/228202316363492.webp",
+    "link": "https://droper.app/d/6773/Nike_SB_Dunk_Low_Pro_ISO_Orange_Label_Court_Purple",
+    "data_lancamento": "22/ago/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Laser Blue",
+    "preco": 699.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241525536.webp",
+    "link": "https://droper.app/d/1285/Nike_SB_Dunk_Low_Pro_Laser_Blue",
+    "data_lancamento": "1/set/2021"
+  },
+  {
+    "nome": "Alexis Sablone x Nike SB Dunk Low Pro White and Pacific Moss",
+    "preco": 700.0,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/22820241597922.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/228202415857111.webp",
+    "link": "https://droper.app/d/14504/Alexis_Sablone_x_Nike_SB_Dunk_Low_Pro_White_and_Pacific_Moss",
+    "data_lancamento": "29/ago/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Cherry",
+    "preco": 700.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202413859180.webp",
+    "link": "https://droper.app/d/2095/Nike_SB_Dunk_Low_Cherry",
+    "data_lancamento": "30/abr/2022"
+  },
+  {
+    "nome": "Verdy x Nike SB Dunk Low Wasted Youth",
+    "preco": 700.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13112023124244577.webp",
+    "link": "https://droper.app/d/673/Verdy_x_Nike_SB_Dunk_Low_Wasted_Youth",
+    "data_lancamento": "6/abr/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro White Black",
+    "preco": 718.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250207200409851-488.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250207200352623-224.webp",
+    "link": "https://droper.app/d/19071/nike_sb_dunk_low_pro_white_black",
+    "data_lancamento": "11/fev/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Red Stardust",
+    "preco": 720.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250409200543652-454.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250409200530597-110.webp",
+    "link": "https://droper.app/d/21053/nike_sb_dunk_low_red_stardust",
+    "data_lancamento": "9/abr/2025"
+  },
+  {
+    "nome": "Limosine Skateboards x Nike SB Dunk Low Pro Brown Black",
+    "preco": 740.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250829210328502-250.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250829210140430-846.webp",
+    "link": "https://droper.app/d/27651/limosine_skateboards_x_nike_sb_dunk_low_pro_brown_black",
+    "data_lancamento": "6/set/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Barcelona",
+    "preco": 748.9,
+    "imagem": null,
+    "icone": "https://droper-media.s3.amazonaws.com/2172021144025292.png",
+    "link": "https://droper.app/d/1157/Nike_SB_Dunk_Low_Pro_Barcelona",
+    "data_lancamento": "24/jul/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Persian Violet Off Noir",
+    "preco": 748.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251001180701685-745.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251001180612778-574.webp",
+    "link": "https://droper.app/d/29193/nike_sb_dunk_low_pro_persian_violet_off_noir",
+    "data_lancamento": "6/dez/2025"
+  },
+  {
+    "nome": "HUF x Nike SB Dunk Low San Francisco",
+    "preco": 749.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/15122022211931595.webp",
+    "link": "https://droper.app/d/3825/HUF_x_Nike_SB_Dunk_Low_San_Francisco",
+    "data_lancamento": "17/dez/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Sashiko",
+    "preco": 749.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/252023144217138.webp",
+    "link": "https://droper.app/d/205/Nike_SB_Dunk_Sashiko",
+    "data_lancamento": "21/mai/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO Dark Russet",
+    "preco": 750.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241447254.webp",
+    "link": "https://droper.app/d/1871/Nike_SB_Dunk_Low_Pro_ISO_Dark_Russet",
+    "data_lancamento": "4/mar/2022"
+  },
+  {
+    "nome": "Gundam x Nike SB Dunk High Project Unicorn RX-0",
+    "preco": 750.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241205180757173-814.webp",
+    "link": "https://droper.app/d/1345/Gundam_x_Nike_SB_Dunk_High_Project_Unicorn_RX-0",
+    "data_lancamento": "27/set/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High Decon Gorge Green",
+    "preco": 759.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1212202215442600.webp",
+    "link": "https://droper.app/d/3762/Nike_SB_Dunk_High_Decon_Gorge_Green",
+    "data_lancamento": "15/dez/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Sequoia Light Army",
+    "preco": 763.92,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250627174654382-564.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025062717464181-668.webp",
+    "link": "https://droper.app/d/24607/nike_sb_dunk_low_pro_sequoia_light_army",
+    "data_lancamento": "2/jul/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Pale Ivory",
+    "preco": 768.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250409200648610-187.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250409200637139-410.webp",
+    "link": "https://droper.app/d/21054/nike_sb_dunk_low_pro_pale_ivory",
+    "data_lancamento": "9/abr/2025"
+  },
+  {
+    "nome": "Carpet Company x Nike SB Dunk High Royal Pulse",
+    "preco": 769.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025121613370685-341.webp",
+    "link": "https://droper.app/d/633/carpet_company_x_nike_sb_dunk_high_royal_pulse",
+    "data_lancamento": "2/mar/2021"
+  },
+  {
+    "nome": "HUF x Nike SB Dunk Low New York",
+    "preco": 780.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1512202221213048.webp",
+    "link": "https://droper.app/d/3826/HUF_x_Nike_SB_Dunk_Low_New_York",
+    "data_lancamento": "17/dez/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Saturn Gold",
+    "preco": 789.88,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250507192313277-221.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025051317572877-621.webp",
+    "link": "https://droper.app/d/22069/nike_sb_dunk_low_saturn_gold",
+    "data_lancamento": "1/jun/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Triple Black",
+    "preco": 790.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250114152005369-844.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250114151953363-203.webp",
+    "link": "https://droper.app/d/18179/Nike_SB_Dunk_Low_Pro_Triple_Black",
+    "data_lancamento": "1/out/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO White Gum",
+    "preco": 790.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/311202313422976.webp",
+    "link": "https://droper.app/d/4167/Nike_SB_Dunk_Low_Pro_ISO_White_Gum",
+    "data_lancamento": "31/jan/2023"
+  },
+  {
+    "nome": "Riot Skateshop x Nike SB Dunk Low Pro Mahogany and Team Red",
+    "preco": 799.9,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250123145333771-374.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025012314532284-148.webp",
+    "link": "https://droper.app/d/18409/riot_skateshop_x_nike_sb_dunk_low_pro_mahogany_and_team_red",
+    "data_lancamento": "28/jan/2025"
+  },
+  {
+    "nome": "There x Nike SB Dunk Low Pro Anthracite and Gorge Green",
+    "preco": 799.9,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/2082024164715665.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/30720242317731.webp",
+    "link": "https://droper.app/d/13892/There_x_Nike_SB_Dunk_Low_Pro_Anthracite_and_Gorge_Green",
+    "data_lancamento": "29/jul/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Celestial Gold and Dark Team Red",
+    "preco": 799.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241028193735762-431.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241028193716762-438.webp",
+    "link": "https://droper.app/d/16456/Nike_SB_Dunk_Low_Pro_Celestial_Gold_and_Dark_Team_Red",
+    "data_lancamento": "1/nov/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Blue Raspberry",
+    "preco": 799.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241205181237947-801.webp",
+    "link": "https://droper.app/d/2368/Nike_SB_Dunk_Low_Pro_Blue_Raspberry",
+    "data_lancamento": "26/mai/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Trocadero Gardens",
+    "preco": 800.0,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/1972024203842864.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1972024203830443.webp",
+    "link": "https://droper.app/d/13590/Nike_SB_Dunk_Low_Trocadero_Gardens",
+    "data_lancamento": "1/ago/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High PRM NY Mets Rush Blue and Team Orange",
+    "preco": 830.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204174037351-488.webp",
+    "link": "https://droper.app/d/2402/Nike_SB_Dunk_High_PRM_NY_Mets_Rush_Blue_and_Team_Orange",
+    "data_lancamento": "31/mai/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO Grey Gum",
+    "preco": 840.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1112023215229713.webp",
+    "link": "https://droper.app/d/3977/Nike_SB_Dunk_Low_Pro_ISO_Grey_Gum",
+    "data_lancamento": "31/jan/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Baroque Brown Midnight Navy",
+    "preco": 849.98,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251229185832699-265.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251229185816751-875.webp",
+    "link": "https://droper.app/d/34486/nike_sb_dunk_low_baroque_brown_midnight_navy",
+    "data_lancamento": "2/jan/2026"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Hawaii",
+    "preco": 849.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204152106921-285.webp",
+    "link": "https://droper.app/d/857/Nike_SB_Dunk_High_Pro_Hawaii",
+    "data_lancamento": "8/mai/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Reverse Papa Bear",
+    "preco": 859.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414428752.webp",
+    "link": "https://droper.app/d/972/Nike_SB_Dunk_Low_Pro_Reverse_Papa_Bear",
+    "data_lancamento": "28/mai/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High Medium Grey Pink",
+    "preco": 880.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251216150730143-587.webp",
+    "link": "https://droper.app/d/1753/nike_sb_dunk_high_medium_grey_pink",
+    "data_lancamento": "25/jan/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Ben-G",
+    "preco": 889.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414855528.webp",
+    "link": "https://droper.app/d/394/Nike_SB_Dunk_Low_Ben-G",
+    "data_lancamento": "5/out/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Sour Apple",
+    "preco": 890.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241502489.webp",
+    "link": "https://droper.app/d/2435/Nike_SB_Dunk_Low_Pro_Sour_Apple",
+    "data_lancamento": "8/jun/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low ACG Celadon",
+    "preco": 890.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414048269.webp",
+    "link": "https://droper.app/d/948/Nike_SB_Dunk_Low_ACG_Celadon",
+    "data_lancamento": "22/mai/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Dark Team Red Olive Flak",
+    "preco": 898.9,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250627180823353-805.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250627180811791-841.webp",
+    "link": "https://droper.app/d/24611/nike_sb_dunk_low_dark_team_red_olive_flak",
+    "data_lancamento": "2/jul/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Krampus Smoke Grey Campfire Orange",
+    "preco": 899.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127152202333-576.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127152139376-815.webp",
+    "link": "https://droper.app/d/33029/nike_sb_dunk_low_krampus_smoke_grey_campfire_orange",
+    "data_lancamento": "27/nov/2025"
+  },
+  {
+    "nome": "Hayley Wilson x Nike SB Dunk Low Court Purple",
+    "preco": 899.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250530140828197-188.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250530140820235-999.webp",
+    "link": "https://droper.app/d/23259/hayley_wilson_x_nike_sb_dunk_low_court_purple",
+    "data_lancamento": "5/jun/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low City of Style",
+    "preco": 899.99,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/1452024172945101.webp",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/3152024175357812.webp",
+    "link": "https://droper.app/d/11884/Nike_SB_Dunk_Low_City_of_Style",
+    "data_lancamento": "10/abr/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High Orange Label Sweet Beet",
+    "preco": 899.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250327190252730-597.webp",
+    "link": "https://droper.app/d/20668/nike_sb_dunk_high_orange_label_sweet_beet",
+    "data_lancamento": "28/nov/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Classic Green",
+    "preco": 899.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202415055876.webp",
+    "link": "https://droper.app/d/1008/Nike_SB_Dunk_Low_Pro_Classic_Green",
+    "data_lancamento": "15/jun/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low VX 1000 Camcorder",
+    "preco": 899.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/14122022153359185.webp",
+    "link": "https://droper.app/d/611/Nike_SB_Dunk_Low_VX_1000_Camcorder",
+    "data_lancamento": "22/fev/2021"
+  },
+  {
+    "nome": "Crenshaw Skate Club x Nike SB Dunk Low",
+    "preco": 900.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/782023141943489.webp",
+    "link": "https://droper.app/d/6523/Crenshaw_Skate_Club_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "5/ago/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low PRM Paisley Brown",
+    "preco": 920.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202415129994.webp",
+    "link": "https://droper.app/d/2036/Nike_SB_Dunk_Low_PRM_Paisley_Brown",
+    "data_lancamento": "20/jun/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High Baroque Brown Vegan",
+    "preco": 925.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251216132701912-469.webp",
+    "link": "https://droper.app/d/550/nike_sb_dunk_high_baroque_brown_vegan",
+    "data_lancamento": "19/jan/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low City of Love",
+    "preco": 930.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/82202414522777.webp",
+    "link": "https://droper.app/d/9841/Nike_SB_Dunk_Low_City_of_Love",
+    "data_lancamento": "11/mar/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Sandy (Ebay 2022)",
+    "preco": 930.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1512202220134982.webp",
+    "link": "https://droper.app/d/3804/Nike_SB_Dunk_Low_Sandy__Ebay_2022_",
+    "data_lancamento": "13/jan/2023"
+  },
+  {
+    "nome": "Arts-Rec Skateshop x Nike SB Dunk Low Pro Rust Pink Rough Green",
+    "preco": 990.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250710200424156-956.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250710200411276-375.webp",
+    "link": "https://droper.app/d/25161/arts-rec_skateshop_x_nike_sb_dunk_low_pro_rust_pink_rough_green",
+    "data_lancamento": "10/jul/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low QS BHM Rodeo",
+    "preco": 998.9,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250415195410203-908.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250415195352694-726.webp",
+    "link": "https://droper.app/d/21251/nike_sb_dunk_low_qs_bhm_rodeo",
+    "data_lancamento": "19/abr/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Triple White",
+    "preco": 998.99,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/178202422127969.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/17820242214934.webp",
+    "link": "https://droper.app/d/14263/Nike_SB_Dunk_Low_Pro_Triple_White",
+    "data_lancamento": "17/ago/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Cool Grey",
+    "preco": 999.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250721180131754-902.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250721180105628-720.webp",
+    "link": "https://droper.app/d/25645/nike_sb_dunk_low_pro_cool_grey",
+    "data_lancamento": "21/jul/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Parachute Beige",
+    "preco": 999.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250212183208726-132.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250212183154884-870.webp",
+    "link": "https://droper.app/d/19273/nike_sb_dunk_low_pro_parachute_beige",
+    "data_lancamento": "20/fev/2025"
+  },
+  {
+    "nome": "Medicom Toy x Nike SB Dunk Be@rbrick",
+    "preco": 999.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022182839282.webp",
+    "link": "https://droper.app/d/271/Medicom_Toy_x_Nike_SB_Dunk_Be_rbrick",
+    "data_lancamento": "12/set/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO Light Cognac",
+    "preco": 999.9,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241227205533930-663.webp",
+    "link": "https://droper.app/d/2478/Nike_SB_Dunk_Low_Pro_ISO_Light_Cognac",
+    "data_lancamento": "6/jun/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Elephant",
+    "preco": 999.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414033262.webp",
+    "link": "https://droper.app/d/458/Nike_SB_Dunk_Low_Elephant",
+    "data_lancamento": "3/dez/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro The Wizard of Oz",
+    "preco": 999.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/2024121914594592-338.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241219145927937-151.webp",
+    "link": "https://droper.app/d/17714/Nike_SB_Dunk_Low_Pro_The_Wizard_of_Oz",
+    "data_lancamento": "23/dez/2024"
+  },
+  {
+    "nome": "Nicole Hause x Dunk Low Pro SB White University Blue",
+    "preco": 999.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241127154347285-791.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241127154328640-526.webp",
+    "link": "https://droper.app/d/17279/Nicole_Hause_x_Dunk_Low_Pro_SB_White_University_Blue",
+    "data_lancamento": "27/nov/2024"
+  },
+  {
+    "nome": "Why So Sad? x Nike SB Dunk Low The Predatory Bird",
+    "preco": 999.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/710202219501159.webp",
+    "link": "https://droper.app/d/3293/Why_So_Sad__x_Nike_SB_Dunk_Low_The_Predatory_Bird",
+    "data_lancamento": "9/nov/2022"
+  },
+  {
+    "nome": "Oski x Nike SB Dunk High Great White",
+    "preco": 999.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204173556426-517.webp",
+    "link": "https://droper.app/d/1899/Oski_x_Nike_SB_Dunk_High_Great_White",
+    "data_lancamento": "13/mar/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Black and Metallic Gold",
+    "preco": 1000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2582022135219832.webp",
+    "link": "https://droper.app/d/3017/Nike_SB_Dunk_High_Pro_Black_and_Metallic_Gold",
+    "data_lancamento": "27/ago/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Polaroid",
+    "preco": 1000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/18202413227685.webp",
+    "link": "https://droper.app/d/1951/Nike_SB_Dunk_Low_Polaroid",
+    "data_lancamento": "5/abr/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Pro ISO Black",
+    "preco": 1000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/279202218300211.webp",
+    "link": "https://droper.app/d/268/Nike_SB_Dunk_Mid_Pro_ISO_Black",
+    "data_lancamento": "28/ago/2020"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro KCDC",
+    "preco": 1030.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204152538709-176.webp",
+    "link": "https://droper.app/d/2113/Nike_SB_Dunk_High_Pro_KCDC",
+    "data_lancamento": "30/abr/2022"
+  },
+  {
+    "nome": "The Powerpuff Girls x Nike SB Dunk Low Buttercup",
+    "preco": 1039.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/29112023203149998.webp",
+    "link": "https://droper.app/d/8465/The_Powerpuff_Girls_x_Nike_SB_Dunk_Low_Buttercup",
+    "data_lancamento": "15/dez/2023"
+  },
+  {
+    "nome": "CSEF x Nike SB Dunk Low Pro White Black",
+    "preco": 1050.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250429143148227-434.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250429143134595-180.webp",
+    "link": "https://droper.app/d/21733/csef_x_nike_sb_dunk_low_pro_white_black",
+    "data_lancamento": "2/mai/2025"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Mineral Slate Suede",
+    "preco": 1050.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260324222326782-406.webp",
+    "link": "https://droper.app/d/2585/nike_sb_dunk_high_pro_mineral_slate_suede",
+    "data_lancamento": "12/jul/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Run the Jewels",
+    "preco": 1090.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2842023151538821.webp",
+    "link": "https://droper.app/d/5078/Nike_SB_Dunk_Low_Run_the_Jewels",
+    "data_lancamento": "5/mai/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Deep Fir",
+    "preco": 1094.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251128191444202-376.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251128191423873-124.webp",
+    "link": "https://droper.app/d/33132/nike_sb_dunk_low_deep_fir",
+    "data_lancamento": "12/jan/2025"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro ISO Kentucky",
+    "preco": 1098.1,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2932022145312962.webp",
+    "link": "https://droper.app/d/1954/Nike_SB_Dunk_High_Pro_ISO_Kentucky",
+    "data_lancamento": "25/mar/2022"
+  },
+  {
+    "nome": "Albino & Preto x Nike SB Dunk Low Pearl White",
+    "preco": 1099.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/209202314343868.webp",
+    "link": "https://droper.app/d/7183/Albino___Preto_x_Nike_SB_Dunk_Low_Pearl_White",
+    "data_lancamento": "23/set/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Fly Streetwear",
+    "preco": 1099.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/23202314209787.webp",
+    "link": "https://droper.app/d/4578/Nike_SB_Dunk_Low_Fly_Streetwear",
+    "data_lancamento": "4/mar/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Betrue",
+    "preco": 1100.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241227205549324-745.webp",
+    "link": "https://droper.app/d/2502/Nike_SB_Dunk_Low_Betrue",
+    "data_lancamento": "25/jun/2022"
+  },
+  {
+    "nome": "Gnarhunters x Nike SB Dunk Low",
+    "preco": 1100.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414013762.webp",
+    "link": "https://droper.app/d/2366/Gnarhunters_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "24/mai/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Safari",
+    "preco": 1100.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022182725564.webp",
+    "link": "https://droper.app/d/88/Nike_SB_Dunk_Low_Safari",
+    "data_lancamento": "15/mar/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro ISO Burgundy Crush",
+    "preco": 1148.99,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260226173352437-583.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260226173333559-853.webp",
+    "link": "https://droper.app/d/37676/nike_sb_dunk_low_pro_iso_burgundy_crush",
+    "data_lancamento": "1/mar/2026"
+  },
+  {
+    "nome": "Nike SB Dunk Low Dark Smoke Grey",
+    "preco": 1150.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250113132807655-894.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250113132748132-522.webp",
+    "link": "https://droper.app/d/18063/Nike_SB_Dunk_Low_Dark_Smoke_Grey",
+    "data_lancamento": "3/dez/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Big Money Savings",
+    "preco": 1150.0,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/952024185254770.webp",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/952024185213445.webp",
+    "link": "https://droper.app/d/11883/Nike_SB_Dunk_Low_Big_Money_Savings",
+    "data_lancamento": "17/abr/2024"
+  },
+  {
+    "nome": "Nardwuar x Nike SB Dunk Low Tam O’ Shanter Hat Black",
+    "preco": 1177.8,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025112717242939-766.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127172404165-257.webp",
+    "link": "https://droper.app/d/33042/nardwuar_x_nike_sb_dunk_low_tam_o__shanter_hat_black",
+    "data_lancamento": "9/dez/2025"
+  },
+  {
+    "nome": "Instant Skateboards x Nike SB Dunk",
+    "preco": 1180.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/254202318450372.webp",
+    "link": "https://droper.app/d/286/instant_skateboards_x_nike_sb_dunk",
+    "data_lancamento": "18/set/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro St. Patrick's Day",
+    "preco": 1190.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/158202444550413.webp",
+    "link": "https://droper.app/d/2338/Nike_SB_Dunk_Low_Pro_St__Patrick_s_Day",
+    "data_lancamento": "1/jun/2022"
+  },
+  {
+    "nome": "Dashawn Jordan x Nike SB Dunk Low Bright Spruce",
+    "preco": 1198.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260312173242138-772.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260312173227707-565.webp",
+    "link": "https://droper.app/d/38525/dashawn_jordan_x_nike_sb_dunk_low_bright_spruce",
+    "data_lancamento": "17/mar/2026"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro University Blue Gum",
+    "preco": 1199.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250120171808473-601.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250120171748742-847.webp",
+    "link": "https://droper.app/d/18260/nike_sb_dunk_low_pro_university_blue_gum",
+    "data_lancamento": "20/jan/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low ISO Pro Navy Gum",
+    "preco": 1199.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241480118.webp",
+    "link": "https://droper.app/d/510/Nike_SB_Dunk_Low_ISO_Pro_Navy_Gum",
+    "data_lancamento": "14/dez/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Pro Invert Celtics",
+    "preco": 1199.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/254202319181354.webp",
+    "link": "https://droper.app/d/345/nike_sb_dunk_pro_invert_celtics",
+    "data_lancamento": "7/nov/2020"
+  },
+  {
+    "nome": "Nike SB Dunk High Doraemon",
+    "preco": 1199.98,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022182925222.webp",
+    "link": "https://droper.app/d/278/Nike_SB_Dunk_High_Doraemon",
+    "data_lancamento": "5/set/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low City Of Love Light Bone",
+    "preco": 1199.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/162202420137983.webp",
+    "link": "https://droper.app/d/10000/Nike_SB_Dunk_Low_City_Of_Love_Light_Bone",
+    "data_lancamento": "9/fev/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low PRM Phillies",
+    "preco": 1199.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202415112528.webp",
+    "link": "https://droper.app/d/2028/Nike_SB_Dunk_Low_PRM_Phillies",
+    "data_lancamento": "18/jun/2022"
+  },
+  {
+    "nome": "Futura Laboratories x Nike SB Dunk Low White and Geode Teal",
+    "preco": 1200.0,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/46202421941735.webp",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/14520242274986.webp",
+    "link": "https://droper.app/d/12307/Futura_Laboratories_x_Nike_SB_Dunk_Low_White_and_Geode_Teal",
+    "data_lancamento": "22/mai/2024"
+  },
+  {
+    "nome": "The Powerpuff Girls x Nike SB Dunk Low Bubbles",
+    "preco": 1200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/29112023203334164.webp",
+    "link": "https://droper.app/d/8466/The_Powerpuff_Girls_x_Nike_SB_Dunk_Low_Bubbles",
+    "data_lancamento": "15/dez/2023"
+  },
+  {
+    "nome": "Skate Like a Girl x Nike SB Dunk Low",
+    "preco": 1200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241463449.webp",
+    "link": "https://droper.app/d/2644/Skate_Like_a_Girl_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "1/ago/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Chicago",
+    "preco": 1200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/254202318748576.webp",
+    "link": "https://droper.app/d/317/Nike_SB_Dunk_Low_Pro_Chicago",
+    "data_lancamento": "28/out/2020"
+  },
+  {
+    "nome": "Nike SB Dunk High Atlas Lost At Sea",
+    "preco": 1200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/254202318613250.webp",
+    "link": "https://droper.app/d/290/Nike_SB_Dunk_High_Atlas_Lost_At_Sea",
+    "data_lancamento": "30/set/2020"
+  },
+  {
+    "nome": "The Powerpuff Girls x Nike SB Dunk Low Blossom",
+    "preco": 1250.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/29112023203516973.webp",
+    "link": "https://droper.app/d/8467/The_Powerpuff_Girls_x_Nike_SB_Dunk_Low_Blossom",
+    "data_lancamento": "15/dez/2023"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk Low Orange Lobster",
+    "preco": 1250.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/301120221792292.webp",
+    "link": "https://droper.app/d/3501/Concepts_x_Nike_SB_Dunk_Low_Orange_Lobster",
+    "data_lancamento": "9/fev/2023"
+  },
+  {
+    "nome": "NOTE x Nike SB Dunk Low Brew & Biscuits",
+    "preco": 1270.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260416141542359-985.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260324211559846-711.webp",
+    "link": "https://droper.app/d/39202/note_x_nike_sb_dunk_low_brew___biscuits",
+    "data_lancamento": "15/abr/2026"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Grey Black",
+    "preco": 1298.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/811202320536367.webp",
+    "link": "https://droper.app/d/1396/Nike_SB_Dunk_Low_Pro_Grey_Black",
+    "data_lancamento": "8/nov/2023"
+  },
+  {
+    "nome": "Neckface x Nike SB Dunk Low Pro Black",
+    "preco": 1299.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/31102022123033613.webp",
+    "link": "https://droper.app/d/3449/Neckface_x_Nike_SB_Dunk_Low_Pro_Black",
+    "data_lancamento": "27/out/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro ISO Orange Label Natural",
+    "preco": 1299.99,
+    "imagem": null,
+    "icone": "https://droper-media.s3.amazonaws.com/2592021221455972.webp",
+    "link": "https://droper.app/d/1367/Nike_SB_Dunk_High_Pro_ISO_Orange_Label_Natural",
+    "data_lancamento": "25/set/2021"
+  },
+  {
+    "nome": "froSkate x Nike SB Dunk High Pro All Love",
+    "preco": 1300.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/982022145618447.webp",
+    "link": "https://droper.app/d/2913/froSkate_x_Nike_SB_Dunk_High_Pro_All_Love",
+    "data_lancamento": "15/ago/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High San Francisco",
+    "preco": 1300.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/30720221636792.webp",
+    "link": "https://droper.app/d/2882/Nike_SB_Dunk_High_San_Francisco",
+    "data_lancamento": "11/ago/2022"
+  },
+  {
+    "nome": "FTC x Nike SB Dunk Low Pro",
+    "preco": 1300.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025032516070426-742.webp",
+    "link": "https://droper.app/d/1146/ftc_x_nike_sb_dunk_low_pro",
+    "data_lancamento": "21/jul/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High PRM Space Jam",
+    "preco": 1300.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2510202219193641.webp",
+    "link": "https://droper.app/d/3393/Nike_SB_Dunk_High_PRM_Space_Jam",
+    "data_lancamento": "27/nov/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Yellow Curb",
+    "preco": 1300.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/117202425610839.webp",
+    "link": "https://droper.app/d/13343/Nike_SB_Dunk_Low_Premium_Yellow_Curb",
+    "data_lancamento": "10/set/2010"
+  },
+  {
+    "nome": "Bronx Girls Skate x Nike SB Dunk Low",
+    "preco": 1312.05,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127150521275-799.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127150349914-751.webp",
+    "link": "https://droper.app/d/33027/bronx_girls_skate_x_nike_sb_dunk_low",
+    "data_lancamento": "23/jan/2026"
+  },
+  {
+    "nome": "Yuto Horigome x Nike SB Dunk Low Matcha",
+    "preco": 1339.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250327190006779-984.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250327185954115-368.webp",
+    "link": "https://droper.app/d/20666/yuto_horigome_x_nike_sb_dunk_low_matcha",
+    "data_lancamento": "5/abr/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Low Orange Label White",
+    "preco": 1350.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241474343.webp",
+    "link": "https://droper.app/d/981/Nike_SB_Dunk_Low_Orange_Label_White",
+    "data_lancamento": "5/jun/2021"
+  },
+  {
+    "nome": "Nike SB Zoom Dunk Low Track Red",
+    "preco": 1350.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241227205505281-952.webp",
+    "link": "https://droper.app/d/1220/Nike_SB_Zoom_Dunk_Low_Track_Red",
+    "data_lancamento": "1/jan/2017"
+  },
+  {
+    "nome": "Crushed D.C. x Nike SB Dunk Low Golden Hour",
+    "preco": 1380.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/411202217125122.webp",
+    "link": "https://droper.app/d/3536/Crushed_D_C__x_Nike_SB_Dunk_Low_Golden_Hour",
+    "data_lancamento": "4/nov/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High Run the Jewels Active Pink and Black",
+    "preco": 1399.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2742023193648217.webp",
+    "link": "https://droper.app/d/5070/Nike_SB_Dunk_High_Run_the_Jewels_Active_Pink_and_Black",
+    "data_lancamento": "5/mai/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Rayssa Leal",
+    "preco": 1399.99,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/19820241438134.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1232024174413865.webp",
+    "link": "https://droper.app/d/10727/Nike_SB_Dunk_Low_Rayssa_Leal",
+    "data_lancamento": "19/mar/2024"
+  },
+  {
+    "nome": "Quartersnacks x Nike SB Dunk Low Little Debbies Zebra Cake",
+    "preco": 1399.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241411250.webp",
+    "link": "https://droper.app/d/1301/Quartersnacks_x_Nike_SB_Dunk_Low_Little_Debbies_Zebra_Cake",
+    "data_lancamento": "2/set/2021"
+  },
+  {
+    "nome": "Di'orr Greenwood x Nike SB Dunk High Navajo Arts",
+    "preco": 1400.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250704132515533-397.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250704132503208-124.webp",
+    "link": "https://droper.app/d/24926/di_orr_greenwood_x_nike_sb_dunk_high_navajo_arts",
+    "data_lancamento": "4/jun/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Red Plum",
+    "preco": 1400.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414531783.webp",
+    "link": "https://droper.app/d/1267/Nike_SB_Dunk_Low_Pro_Red_Plum",
+    "data_lancamento": "27/ago/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Mid White Widow",
+    "preco": 1400.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/472023172658285.webp",
+    "link": "https://droper.app/d/5994/Nike_SB_Dunk_Mid_White_Widow",
+    "data_lancamento": "20/abr/2018"
+  },
+  {
+    "nome": "TIGHTBOOTH x Nike SB Dunk Low Pro Black White",
+    "preco": 1449.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/7112023135415972.webp",
+    "link": "https://droper.app/d/8239/TIGHTBOOTH_x_Nike_SB_Dunk_Low_Pro_Black_White",
+    "data_lancamento": "11/nov/2023"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Desert Camo",
+    "preco": 1456.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251216135040158-531.webp",
+    "link": "https://droper.app/d/451/nike_sb_dunk_high_pro_desert_camo",
+    "data_lancamento": "19/mar/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Club 58 Gulf",
+    "preco": 1490.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241503289.webp",
+    "link": "https://droper.app/d/568/Nike_SB_Dunk_Low_Club_58_Gulf",
+    "data_lancamento": "1/mar/2021"
+  },
+  {
+    "nome": "April Skateboards x Nike SB Dunk Low Turbo Green",
+    "preco": 1498.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/4120245433947.webp",
+    "link": "https://droper.app/d/8311/April_Skateboards_x_Nike_SB_Dunk_Low_Turbo_Green",
+    "data_lancamento": "28/nov/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low ACG Terra",
+    "preco": 1499.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/301120231835182.webp",
+    "link": "https://droper.app/d/8515/Nike_SB_Dunk_Low_ACG_Terra",
+    "data_lancamento": "31/jul/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Raygun Tie-Dye White",
+    "preco": 1499.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414840691.webp",
+    "link": "https://droper.app/d/858/Nike_SB_Dunk_Low_Raygun_Tie-Dye_White",
+    "data_lancamento": "27/dez/2019"
+  },
+  {
+    "nome": "Nike SB Dunk High Paul Rodriguez",
+    "preco": 1519.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2542023175223883.webp",
+    "link": "https://droper.app/d/36/Nike_SB_Dunk_High_Paul_Rodriguez",
+    "data_lancamento": "9/fev/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low LA Dodgers",
+    "preco": 1550.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13820241466394.webp",
+    "link": "https://droper.app/d/2883/Nike_SB_Dunk_Low_LA_Dodgers",
+    "data_lancamento": "11/ago/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low Chlorophyll",
+    "preco": 1600.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202415359716.webp",
+    "link": "https://droper.app/d/1547/Nike_SB_Dunk_Low_Chlorophyll",
+    "data_lancamento": "11/nov/2021"
+  },
+  {
+    "nome": "Yuto Horigome x Nike SB Dunk Low",
+    "preco": 1649.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2182023182919777.webp",
+    "link": "https://droper.app/d/6763/Yuto_Horigome_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "29/ago/2023"
+  },
+  {
+    "nome": "Nike SB Dunk Low Mummy",
+    "preco": 1680.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414948464.webp",
+    "link": "https://droper.app/d/1470/Nike_SB_Dunk_Low_Mummy",
+    "data_lancamento": "19/jan/2022"
+  },
+  {
+    "nome": "SOULGOODS x Nike SB Dunk High '90s",
+    "preco": 1689.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/20122022131740487.webp",
+    "link": "https://droper.app/d/3879/SOULGOODS_x_Nike_SB_Dunk_High__90s",
+    "data_lancamento": "22/dez/2022"
+  },
+  {
+    "nome": "Verdy x Nike SB Dunk Low Visty",
+    "preco": 1699.99,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/148202423539260.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/148202423525899.webp",
+    "link": "https://droper.app/d/14182/Verdy_x_Nike_SB_Dunk_Low_Visty",
+    "data_lancamento": "19/set/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low Street Hawker",
+    "preco": 1699.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414446441.webp",
+    "link": "https://droper.app/d/570/Nike_SB_Dunk_Low_Street_Hawker",
+    "data_lancamento": "24/fev/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Black and Aluminium",
+    "preco": 1700.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250206153320234-717.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250206153254311-626.webp",
+    "link": "https://droper.app/d/19001/nike_sb_dunk_low_pro_black_and_aluminium",
+    "data_lancamento": "7/fev/2025"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low 94 White Metallic Silver FW25-W2",
+    "preco": 1750.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904205842929-126.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904205736328-994.webp",
+    "link": "https://droper.app/d/27938/supreme_x_nike_sb_dunk_low_94_white_metallic_silver_fw25-w2",
+    "data_lancamento": "4/set/2025"
+  },
+  {
+    "nome": "Nike SB Dunk High ISO Navy Gum",
+    "preco": 1780.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204205809273-203.webp",
+    "link": "https://droper.app/d/527/Nike_SB_Dunk_High_ISO_Navy_Gum",
+    "data_lancamento": "7/dez/2020"
+  },
+  {
+    "nome": "Sean Cliver x Nike SB Dunk Holiday Special",
+    "preco": 1799.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241023135012288-822.webp",
+    "link": "https://droper.app/d/477/Sean_Cliver_x_Nike_SB_Dunk_Holiday_Special",
+    "data_lancamento": "13/dez/2020"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low 94 Black FW25-W2",
+    "preco": 1799.91,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904204409906-337.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904204346804-998.webp",
+    "link": "https://droper.app/d/27935/supreme_x_nike_sb_dunk_low_94_black_fw25-w2",
+    "data_lancamento": "4/set/2025"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low QS Metallic Gold",
+    "preco": 1799.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414925702.webp",
+    "link": "https://droper.app/d/230/Supreme_x_Nike_SB_Dunk_Low_QS_Metallic_Gold",
+    "data_lancamento": "15/set/2019"
+  },
+  {
+    "nome": "Sean Cliver x Nike SB Dunk Holiday Special Kids",
+    "preco": 1800.0,
+    "imagem": null,
+    "icone": "https://droper-media.s3.amazonaws.com/11122020221628451.png",
+    "link": "https://droper.app/d/503/Sean_Cliver_x_Nike_SB_Dunk_Holiday_Special_Kids",
+    "data_lancamento": "12/dez/2020"
+  },
+  {
+    "nome": "Nike SB Dunk High Cali (2014)",
+    "preco": 1800.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/11820231532529.webp",
+    "link": "https://droper.app/d/6646/Nike_SB_Dunk_High_Cali__2014_",
+    "data_lancamento": "30/ago/2014"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low Varsity Red",
+    "preco": 1899.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414911294.webp",
+    "link": "https://droper.app/d/229/Supreme_x_Nike_SB_Dunk_Low_Varsity_Red",
+    "data_lancamento": "15/set/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Rivals Pack East",
+    "preco": 1899.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1711202219270664.webp",
+    "link": "https://droper.app/d/3604/Nike_SB_Dunk_Low_Rivals_Pack_East",
+    "data_lancamento": "2/mai/2018"
+  },
+  {
+    "nome": "Dunk Low Pro SB Cinco De Mayo",
+    "preco": 1900.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/842024135714336.webp",
+    "link": "https://droper.app/d/11317/Dunk_Low_Pro_SB_Cinco_De_Mayo",
+    "data_lancamento": "1/mai/2005"
+  },
+  {
+    "nome": "Nike SB Dunk Low Blue Fury",
+    "preco": 1999.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022182710146.webp",
+    "link": "https://droper.app/d/142/Nike_SB_Dunk_Low_Blue_Fury",
+    "data_lancamento": "19/abr/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Orange Label Infrared",
+    "preco": 2200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1422024213122552.webp",
+    "link": "https://droper.app/d/9913/Nike_SB_Dunk_Low_Orange_Label_Infrared",
+    "data_lancamento": "20/jan/2020"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low Rammellzee",
+    "preco": 2250.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/209202319330706.webp",
+    "link": "https://droper.app/d/7186/Supreme_x_Nike_SB_Dunk_Low_Rammellzee",
+    "data_lancamento": "31/ago/2023"
+  },
+  {
+    "nome": "Nike SB Dunk High Sweet Tooth",
+    "preco": 2398.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1422024211725808.webp",
+    "link": "https://droper.app/d/9910/Nike_SB_Dunk_High_Sweet_Tooth",
+    "data_lancamento": "14/out/2023"
+  },
+  {
+    "nome": "Nike SB Dunk High Baroque",
+    "preco": 2399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2442023193746549.webp",
+    "link": "https://droper.app/d/356/nike_sb_dunk_high_baroque",
+    "data_lancamento": "1/out/2019"
+  },
+  {
+    "nome": "Born x Raised x Nike SB Dunk Low One Block At A Time",
+    "preco": 2496.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/196202313339901.webp",
+    "link": "https://droper.app/d/5695/Born_x_Raised_x_Nike_SB_Dunk_Low_One_Block_At_A_Time",
+    "data_lancamento": "21/jul/2023"
+  },
+  {
+    "nome": "Nike SB Dunk High Premium Cork",
+    "preco": 2499.66,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250128171239605-330.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250128171205809-237.webp",
+    "link": "https://droper.app/d/18503/nike_sb_dunk_high_premium_cork",
+    "data_lancamento": "1/abr/2025"
+  },
+  {
+    "nome": "Nike SB Dunk High Premier Win Some Lose Some",
+    "preco": 2499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/23102023133242769.webp",
+    "link": "https://droper.app/d/7970/Nike_SB_Dunk_High_Premier_Win_Some_Lose_Some",
+    "data_lancamento": "18/ago/2018"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk High Rammellzee",
+    "preco": 2499.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/512202318511471.webp",
+    "link": "https://droper.app/d/8594/Supreme_x_Nike_SB_Dunk_High_Rammellzee",
+    "data_lancamento": "31/ago/2023"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk High By Any Means Navy",
+    "preco": 2500.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/632024184716695.webp",
+    "link": "https://droper.app/d/10560/Supreme_x_Nike_SB_Dunk_High_By_Any_Means_Navy",
+    "data_lancamento": "3/mar/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High Orange Label Dark Grey",
+    "preco": 2590.9,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250313200528251-269.webp",
+    "link": "https://droper.app/d/675/nike_sb_dunk_high_orange_label_dark_grey",
+    "data_lancamento": "23/mar/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High Spectrum",
+    "preco": 2599.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2892023121717557.webp",
+    "link": "https://droper.app/d/7337/Nike_SB_Dunk_High_Spectrum",
+    "data_lancamento": "31/jan/2020"
+  },
+  {
+    "nome": "Parra x Nike SB Dunk Low Pro Abstract Art",
+    "preco": 2600.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/291120232127816.webp",
+    "link": "https://droper.app/d/1179/Parra_x_Nike_SB_Dunk_Low_Pro_Abstract_Art",
+    "data_lancamento": "31/jul/2021"
+  },
+  {
+    "nome": "Parra x Nike SB Dunk Low White",
+    "preco": 2600.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022182751562.webp",
+    "link": "https://droper.app/d/231/Parra_x_Nike_SB_Dunk_Low_White",
+    "data_lancamento": "28/jul/2019"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low 94 Ocean Fog FW25-W2",
+    "preco": 2650.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250915193410890-572.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250915193326491-915.webp",
+    "link": "https://droper.app/d/27936/supreme_x_nike_sb_dunk_low_94_ocean_fog_fw25-w2",
+    "data_lancamento": "4/set/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Real Tree Camo",
+    "preco": 2699.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/274202318492621.webp",
+    "link": "https://droper.app/d/5064/Nike_SB_Dunk_Mid_Real_Tree_Camo",
+    "data_lancamento": "1/out/2010"
+  },
+  {
+    "nome": "Nike SB Dunk High Dog Walker",
+    "preco": 2799.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251216134636116-173.webp",
+    "link": "https://droper.app/d/754/nike_sb_dunk_high_dog_walker",
+    "data_lancamento": "20/abr/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Black Coral",
+    "preco": 2799.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241227205518304-694.webp",
+    "link": "https://droper.app/d/275/Nike_SB_Dunk_Low_Black_Coral",
+    "data_lancamento": "15/mai/2019"
+  },
+  {
+    "nome": "Nike SB Dunk Low Bart Simpson",
+    "preco": 2900.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2712023171114387.webp",
+    "link": "https://droper.app/d/4144/Nike_SB_Dunk_Low_Bart_Simpson",
+    "data_lancamento": "29/jun/2022"
+  },
+  {
+    "nome": "Nike SB Dunk Low What The P-Rod",
+    "preco": 2979.8,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414736305.webp",
+    "link": "https://droper.app/d/942/Nike_SB_Dunk_Low_What_The_P-Rod",
+    "data_lancamento": "23/mai/2021"
+  },
+  {
+    "nome": "Grateful Dead x Nike Dunk SB Green Bear",
+    "preco": 2990.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022183019620.webp",
+    "link": "https://droper.app/d/196/Grateful_Dead_x_Nike_Dunk_SB_Green_Bear",
+    "data_lancamento": "25/jul/2020"
+  },
+  {
+    "nome": "Grateful Dead x Nike SB Dunk Low Yellow Bear",
+    "preco": 2999.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022183033992.webp",
+    "link": "https://droper.app/d/197/Grateful_Dead_x_Nike_SB_Dunk_Low_Yellow_Bear",
+    "data_lancamento": "25/jul/2020"
+  },
+  {
+    "nome": "Ishod Wair x Magnus Walker x Nike SB Dunk High Pro",
+    "preco": 2999.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204150026263-389.webp",
+    "link": "https://droper.app/d/1033/Ishod_Wair_x_Magnus_Walker_x_Nike_SB_Dunk_High_Pro",
+    "data_lancamento": "21/jun/2021"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low QS Metallic Silver",
+    "preco": 2999.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1492022131522206.webp",
+    "link": "https://droper.app/d/228/Supreme_x_Nike_SB_Dunk_Low_QS_Metallic_Silver",
+    "data_lancamento": "15/set/2019"
+  },
+  {
+    "nome": "Sean Cliver x Nike SB Dunk Low Holiday Special (Special Box)",
+    "preco": 3000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/26122022175150347.webp",
+    "link": "https://droper.app/d/3905/Sean_Cliver_x_Nike_SB_Dunk_Low_Holiday_Special__Special_Box_",
+    "data_lancamento": "19/dez/2020"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low 94 Ink FW25-W2",
+    "preco": 3200.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904205355221-900.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904205346418-327.webp",
+    "link": "https://droper.app/d/27937/supreme_x_nike_sb_dunk_low_94_ink_fw25-w2",
+    "data_lancamento": "4/set/2025"
+  },
+  {
+    "nome": "Xavier Schipani x Nike SB Dunk Low Pro Be True Trans Joy",
+    "preco": 3200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/28122023135958346.webp",
+    "link": "https://droper.app/d/9330/Xavier_Schipani_x_Nike_SB_Dunk_Low_Pro_Be_True_Trans_Joy",
+    "data_lancamento": "18/nov/2022"
+  },
+  {
+    "nome": "Diamond Supply Co. x Nike Dunk Low Pro SB Black Diamond",
+    "preco": 3400.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204133751754-616.webp",
+    "link": "https://droper.app/d/1503/Diamond_Supply_Co__x_Nike_Dunk_Low_Pro_SB_Black_Diamond",
+    "data_lancamento": "11/out/2018"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk High By Any Means Brazil",
+    "preco": 3490.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1072023141048626.webp",
+    "link": "https://droper.app/d/6090/Supreme_x_Nike_SB_Dunk_High_By_Any_Means_Brazil",
+    "data_lancamento": "3/mar/2022"
+  },
+  {
+    "nome": "Jarritos x Nike SB Dunk Low",
+    "preco": 3498.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1052023154513838.webp",
+    "link": "https://droper.app/d/5193/Jarritos_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "10/mai/2023"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk High By Any Means Black",
+    "preco": 3600.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1832024215429883.webp",
+    "link": "https://droper.app/d/10947/Supreme_x_Nike_SB_Dunk_High_By_Any_Means_Black",
+    "data_lancamento": "3/mar/2022"
+  },
+  {
+    "nome": "Frame x Nike SB Dunk Low Habibi",
+    "preco": 3600.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2024120413552290-460.webp",
+    "link": "https://droper.app/d/460/frame_x_nike_sb_dunk_low_habibi",
+    "data_lancamento": "6/dez/2020"
+  },
+  {
+    "nome": "Nike SB Zoom Dunk Low Pro Camo",
+    "preco": 3699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/202202417740800.webp",
+    "link": "https://droper.app/d/10083/Nike_SB_Zoom_Dunk_Low_Pro_Camo",
+    "data_lancamento": "28/dez/2017"
+  },
+  {
+    "nome": "Nike SB Dunk Low Truck It",
+    "preco": 3700.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2542023175055775.webp",
+    "link": "https://droper.app/d/336/Nike_SB_Dunk_Low_Truck_It",
+    "data_lancamento": "3/jan/2020"
+  },
+  {
+    "nome": "Pass~Port x Nike SB Dunk High Work Boots",
+    "preco": 3790.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/472023172451213.webp",
+    "link": "https://droper.app/d/5993/Pass_Port_x_Nike_SB_Dunk_High_Work_Boots",
+    "data_lancamento": "5/mar/2022"
+  },
+  {
+    "nome": "Nike SB Dunk High Futura Court Obsidian White",
+    "preco": 3790.99,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251118195749851-445.webp",
+    "link": "https://droper.app/d/526/nike_sb_dunk_high_futura_court_obsidian_white",
+    "data_lancamento": "23/dez/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Orange Label",
+    "preco": 3790.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/21320221683182.webp",
+    "link": "https://droper.app/d/1931/Nike_SB_Dunk_Mid_Orange_Label",
+    "data_lancamento": "1/mar/2019"
+  },
+  {
+    "nome": "Nike SB Dunk High Kevin Bradley",
+    "preco": 3790.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/159202319222392.webp",
+    "link": "https://droper.app/d/7140/Nike_SB_Dunk_High_Kevin_Bradley",
+    "data_lancamento": "8/fev/2018"
+  },
+  {
+    "nome": "Familia x Nike SB Dunk Low First Avenue",
+    "preco": 3799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1072023142439892.webp",
+    "link": "https://droper.app/d/6097/Familia_x_Nike_SB_Dunk_Low_First_Avenue",
+    "data_lancamento": "11/dez/2021"
+  },
+  {
+    "nome": "Black Sheep x Nike SB Dunk High Hornet",
+    "preco": 3799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/63202418405150.webp",
+    "link": "https://droper.app/d/10558/Black_Sheep_x_Nike_SB_Dunk_High_Hornet",
+    "data_lancamento": "15/fev/2019"
+  },
+  {
+    "nome": "Black Sheep x Nike SB Dunk High Wolf In Sheep's Clothing",
+    "preco": 3799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/632024183821317.webp",
+    "link": "https://droper.app/d/10557/Black_Sheep_x_Nike_SB_Dunk_High_Wolf_In_Sheep_s_Clothing",
+    "data_lancamento": "12/jan/2017"
+  },
+  {
+    "nome": "Nike SB Dunk High De La Soul (2015)",
+    "preco": 3799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/10720231495164.webp",
+    "link": "https://droper.app/d/6089/Nike_SB_Dunk_High_De_La_Soul__2015_",
+    "data_lancamento": "13/fev/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Concord",
+    "preco": 3799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/253202418595340.webp",
+    "link": "https://droper.app/d/11121/Nike_SB_Dunk_Low_Concord",
+    "data_lancamento": "20/abr/2013"
+  },
+  {
+    "nome": "Soulgoods x Nike SB Dunk High 2000s",
+    "preco": 3900.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1072023142311685.webp",
+    "link": "https://droper.app/d/6096/Soulgoods_x_Nike_SB_Dunk_High_2000s",
+    "data_lancamento": "10/dez/2022"
+  },
+  {
+    "nome": "Civilist x Nike SB Dunk Low",
+    "preco": 3999.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/279202218298419.webp",
+    "link": "https://droper.app/d/258/Civilist_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "6/set/2020"
+  },
+  {
+    "nome": "Oski x Nike SB Dunk High Shark Black",
+    "preco": 4000.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251216151159172-476.webp",
+    "link": "https://droper.app/d/1900/oski_x_nike_sb_dunk_high_shark_black",
+    "data_lancamento": "12/mar/2022"
+  },
+  {
+    "nome": "Thomas Campbell x Nike SB Dunk High What the Dunk",
+    "preco": 4200.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1411202314173379.webp",
+    "link": "https://droper.app/d/8299/Thomas_Campbell_x_Nike_SB_Dunk_High_What_the_Dunk",
+    "data_lancamento": "5/jul/2017"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low Stars Black",
+    "preco": 4399.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/732024133141632.webp",
+    "link": "https://droper.app/d/2367/Supreme_x_Nike_SB_Dunk_Low_Stars_Black",
+    "data_lancamento": "4/mar/2021"
+  },
+  {
+    "nome": "Nike SB Dunk Low Night of Mischief Halloween",
+    "preco": 4499.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/472023172218574.webp",
+    "link": "https://droper.app/d/5992/Nike_SB_Dunk_Low_Night_of_Mischief_Halloween",
+    "data_lancamento": "31/out/2019"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low Stars Barkroot Brown (2021)",
+    "preco": 4500.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250707200133155-732.webp",
+    "link": "https://droper.app/d/25039/supreme_x_nike_sb_dunk_low_stars_barkroot_brown__2021_",
+    "data_lancamento": "4/mar/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High Waffle",
+    "preco": 4699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023153736223.webp",
+    "link": "https://droper.app/d/6991/Nike_SB_Dunk_High_Waffle",
+    "data_lancamento": "2/abr/2016"
+  },
+  {
+    "nome": "Nike SB Dunk Low Walk of Fame",
+    "preco": 4799.66,
+    "imagem": "https://droper-media.us-southeast-1.linodeobjects.com/247202423036169.jpg",
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/247202422958581.webp",
+    "link": "https://droper.app/d/13739/Nike_SB_Dunk_Low_Walk_of_Fame",
+    "data_lancamento": "23/jul/2024"
+  },
+  {
+    "nome": "Nike SB Dunk High Brazil Custom Series 02 Fabio Cristiano",
+    "preco": 4800.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/154202414104813.webp",
+    "link": "https://droper.app/d/11567/Nike_SB_Dunk_High_Brazil_Custom_Series_02_Fabio_Cristiano",
+    "data_lancamento": "14/nov/2007"
+  },
+  {
+    "nome": "Diamond Supply Co. x Nike Dunk Low Pro SB White Diamond",
+    "preco": 4899.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241204134159666-962.webp",
+    "link": "https://droper.app/d/1504/Diamond_Supply_Co__x_Nike_Dunk_Low_Pro_SB_White_Diamond",
+    "data_lancamento": "11/out/2018"
+  },
+  {
+    "nome": "Nike SB Dunk High Premium Hacky Sack",
+    "preco": 4899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/12720241527330.webp",
+    "link": "https://droper.app/d/13366/Nike_SB_Dunk_High_Premium_Hacky_Sack",
+    "data_lancamento": "10/mai/2014"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low Hyper Royal",
+    "preco": 4920.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/9122022184052421.webp",
+    "link": "https://droper.app/d/650/Supreme_x_Nike_SB_Dunk_Low_Hyper_Royal",
+    "data_lancamento": "5/mar/2021"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low Stars Mean Green (2021)",
+    "preco": 4980.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250718200717903-116.webp",
+    "link": "https://droper.app/d/25604/supreme_x_nike_sb_dunk_low_stars_mean_green__2021_",
+    "data_lancamento": "4/mar/2021"
+  },
+  {
+    "nome": "Nike SB Dunk High Purple Box",
+    "preco": 4999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/3092022181529782.webp",
+    "link": "https://droper.app/d/3235/Nike_SB_Dunk_High_Purple_Box",
+    "data_lancamento": "26/dez/2016"
+  },
+  {
+    "nome": "SPoT x Nike SB Dunk High Pro Gasparilla",
+    "preco": 4999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/842024142032964.webp",
+    "link": "https://droper.app/d/11324/SPoT_x_Nike_SB_Dunk_High_Pro_Gasparilla",
+    "data_lancamento": "25/fev/2016"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk Low Grail",
+    "preco": 4999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/7320241253753.webp",
+    "link": "https://droper.app/d/10574/Concepts_x_Nike_SB_Dunk_Low_Grail",
+    "data_lancamento": "25/jul/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium QS BHM",
+    "preco": 4999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2642023173923159.webp",
+    "link": "https://droper.app/d/5034/Nike_SB_Dunk_Low_Premium_QS_BHM",
+    "data_lancamento": "1/fev/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Pushead 2",
+    "preco": 4999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13202417543709.webp",
+    "link": "https://droper.app/d/10424/Nike_SB_Dunk_Low_Premium_Pushead_2",
+    "data_lancamento": "15/jul/2012"
+  },
+  {
+    "nome": "Nike SB Dunk Staple Panda Pigeon",
+    "preco": 5000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/279202218285786.webp",
+    "link": "https://droper.app/d/233/Nike_SB_Dunk_Staple_Panda_Pigeon",
+    "data_lancamento": "15/jan/2019"
+  },
+  {
+    "nome": "Nike SB Dunk High Tricolor (USA)",
+    "preco": 5099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/84202414141611.webp",
+    "link": "https://droper.app/d/11322/Nike_SB_Dunk_High_Tricolor__USA_",
+    "data_lancamento": "10/nov/2016"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Larry Perkins",
+    "preco": 5099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/247202422850304.webp",
+    "link": "https://droper.app/d/13738/Nike_SB_Dunk_Low_Premium_Larry_Perkins",
+    "data_lancamento": "1/mar/2010"
+  },
+  {
+    "nome": "Nike SB Dunk Low TRD QS Galaxy",
+    "preco": 5199.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2510202219172730.webp",
+    "link": "https://droper.app/d/3392/Nike_SB_Dunk_Low_TRD_QS_Galaxy",
+    "data_lancamento": "20/abr/2017"
+  },
+  {
+    "nome": "Nike SB Dunk High Premium Familia",
+    "preco": 5299.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/632024183020835.webp",
+    "link": "https://droper.app/d/10555/Nike_SB_Dunk_High_Premium_Familia",
+    "data_lancamento": "4/jul/2015"
+  },
+  {
+    "nome": "Diamond Supply Co. x Nike Dunk High Premium SB Tiffany",
+    "preco": 5299.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250605160837826-945.webp",
+    "link": "https://droper.app/d/1505/diamond_supply_co__x_nike_dunk_high_premium_sb_tiffany",
+    "data_lancamento": "2/ago/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Staple Black Pigeon",
+    "preco": 5400.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022182821411.webp",
+    "link": "https://droper.app/d/234/nike_sb_dunk_staple_black_pigeon",
+    "data_lancamento": "11/nov/2017"
+  },
+  {
+    "nome": "Supreme x Nike SB Dunk Low 94 Camper Green FW25-W2",
+    "preco": 5500.0,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904210115687-475.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904210033290-691.webp",
+    "link": "https://droper.app/d/27939/supreme_x_nike_sb_dunk_low_94_camper_green_fw25-w2",
+    "data_lancamento": "4/set/2025"
+  },
+  {
+    "nome": "Dunk Low Pro SB Oompa Loompa",
+    "preco": 5920.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/44202421453467.webp",
+    "link": "https://droper.app/d/11257/Dunk_Low_Pro_SB_Oompa_Loompa",
+    "data_lancamento": "1/jun/2020"
+  },
+  {
+    "nome": "Boca Jr x Nike SB Dunk Low",
+    "preco": 6000.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250904140557899-150.webp",
+    "link": "https://droper.app/d/27863/boca_jr_x_nike_sb_dunk_low",
+    "data_lancamento": "21/abr/2017"
+  },
+  {
+    "nome": "Nike SB Dunk High Huxtable",
+    "preco": 6199.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1142024133545633.webp",
+    "link": "https://droper.app/d/11415/Nike_SB_Dunk_High_Huxtable",
+    "data_lancamento": "1/jan/2010"
+  },
+  {
+    "nome": "Nike SB Dunk Low Strangelove",
+    "preco": 6250.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/108202218313258.webp",
+    "link": "https://droper.app/d/82/Nike_SB_Dunk_Low_Strangelove",
+    "data_lancamento": "15/fev/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Mafia",
+    "preco": 6299.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1832024205128304.webp",
+    "link": "https://droper.app/d/10938/Nike_SB_Dunk_Low_Mafia",
+    "data_lancamento": "1/nov/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Camo Legion Green",
+    "preco": 6399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/117202425857898.webp",
+    "link": "https://droper.app/d/13345/Nike_SB_Dunk_Low_Camo_Legion_Green",
+    "data_lancamento": "20/dez/2016"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Cold Pizza",
+    "preco": 6499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/192202420650278.webp",
+    "link": "https://droper.app/d/10036/Nike_SB_Dunk_Low_Pro_Cold_Pizza",
+    "data_lancamento": "20/abr/2016"
+  },
+  {
+    "nome": "Nike SB Dunk High Statue of Liberty",
+    "preco": 6499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/133202417315711.webp",
+    "link": "https://droper.app/d/10757/Nike_SB_Dunk_High_Statue_of_Liberty",
+    "data_lancamento": "5/mar/2011"
+  },
+  {
+    "nome": "Nike SB Dunk High Daniel Shimizu",
+    "preco": 6499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/223202415257459.webp",
+    "link": "https://droper.app/d/11098/Nike_SB_Dunk_High_Daniel_Shimizu",
+    "data_lancamento": "1/jul/2004"
+  },
+  {
+    "nome": "Nike SB Dunk High Quagmire",
+    "preco": 6599.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023153931913.webp",
+    "link": "https://droper.app/d/6992/Nike_SB_Dunk_High_Quagmire",
+    "data_lancamento": "1/abr/2009"
+  },
+  {
+    "nome": "Nike SB Dunk High Picnic",
+    "preco": 6699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/54202414452766.webp",
+    "link": "https://droper.app/d/11268/Nike_SB_Dunk_High_Picnic",
+    "data_lancamento": "15/jun/2016"
+  },
+  {
+    "nome": "Nike SB Dunk High Red Devil",
+    "preco": 6699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/842024141053168.webp",
+    "link": "https://droper.app/d/11321/Nike_SB_Dunk_High_Red_Devil",
+    "data_lancamento": "1/jul/2011"
+  },
+  {
+    "nome": "Nike SB Dunk Low Bleached Denim",
+    "preco": 6799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/253202419612821.webp",
+    "link": "https://droper.app/d/11124/Nike_SB_Dunk_Low_Bleached_Denim",
+    "data_lancamento": "14/dez/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low De La Soul (2015)",
+    "preco": 7699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/137202316224564.webp",
+    "link": "https://droper.app/d/6158/Nike_SB_Dunk_Low_De_La_Soul__2015_",
+    "data_lancamento": "16/mai/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Disposable",
+    "preco": 7699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/732024131215195.webp",
+    "link": "https://droper.app/d/10579/Nike_SB_Dunk_Low_Disposable",
+    "data_lancamento": "19/nov/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro White Ice",
+    "preco": 7699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13202418178762.webp",
+    "link": "https://droper.app/d/10431/Nike_SB_Dunk_Low_Pro_White_Ice",
+    "data_lancamento": "16/jan/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Low Tokyo Green Taxi",
+    "preco": 7699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2042023182033540.webp",
+    "link": "https://droper.app/d/5007/Nike_SB_Dunk_Low_Tokyo_Green_Taxi",
+    "data_lancamento": "12/jan/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low De La Soul (2005)",
+    "preco": 7799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/218202319208848.webp",
+    "link": "https://droper.app/d/6767/Nike_SB_Dunk_Low_De_La_Soul__2005_",
+    "data_lancamento": "1/out/2005"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk Low Green Lobster",
+    "preco": 7799.94,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/3152023124418892.webp",
+    "link": "https://droper.app/d/5494/Concepts_x_Nike_SB_Dunk_Low_Green_Lobster",
+    "data_lancamento": "19/dez/2018"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Doernbecher",
+    "preco": 7850.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1320241861830.webp",
+    "link": "https://droper.app/d/10428/Nike_SB_Dunk_Low_Pro_Doernbecher",
+    "data_lancamento": "14/dez/2018"
+  },
+  {
+    "nome": "Nike SB Dunk Low Valentine's Day",
+    "preco": 7899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2182023192151671.webp",
+    "link": "https://droper.app/d/6768/Nike_SB_Dunk_Low_Valentine_s_Day",
+    "data_lancamento": "14/fev/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Angels & Demons",
+    "preco": 7899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/264202317446261.webp",
+    "link": "https://droper.app/d/5037/Nike_SB_Dunk_Low_Premium_Angels___Demons",
+    "data_lancamento": "1/mar/2009"
+  },
+  {
+    "nome": "Nike SB Dunk High Premium Dinosaur Jr.",
+    "preco": 7899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/63202418457775.webp",
+    "link": "https://droper.app/d/10559/Nike_SB_Dunk_High_Premium_Dinosaur_Jr_",
+    "data_lancamento": "1/fev/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pink Box",
+    "preco": 7999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/22112022192655573.webp",
+    "link": "https://droper.app/d/3620/Nike_SB_Dunk_Low_Pink_Box",
+    "data_lancamento": "26/nov/2016"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk High When Pigs Fly",
+    "preco": 7999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1332024173413414.webp",
+    "link": "https://droper.app/d/10758/Concepts_x_Nike_SB_Dunk_High_When_Pigs_Fly",
+    "data_lancamento": "23/nov/2012"
+  },
+  {
+    "nome": "Costco Kirkland x Nike SB Dunk Low Grey Fog",
+    "preco": 8099.66,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127152559978-572.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251127152554534-242.webp",
+    "link": "https://droper.app/d/33030/costco_kirkland_x_nike_sb_dunk_low_grey_fog",
+    "data_lancamento": "27/nov/2025"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Donatello",
+    "preco": 8099.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025090217573331-705.webp",
+    "link": "https://droper.app/d/27742/nike_sb_dunk_mid_donatello",
+    "data_lancamento": "1/abr/2008"
+  },
+  {
+    "nome": "Nike SB Dunk High Melvins",
+    "preco": 8099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1832024215932944.webp",
+    "link": "https://droper.app/d/10949/Nike_SB_Dunk_High_Melvins",
+    "data_lancamento": "6/ago/2005"
+  },
+  {
+    "nome": "Ishod Wair x Nike SB Dunk Low Tie Dye",
+    "preco": 8199.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/137202317840963.webp",
+    "link": "https://droper.app/d/6162/Ishod_Wair_x_Nike_SB_Dunk_Low_Tie_Dye",
+    "data_lancamento": "1/jun/2016"
+  },
+  {
+    "nome": "Travis Scott x Nike SB Dunk Low Cactus Jack",
+    "preco": 9000.0,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20240924190805806-958.webp",
+    "link": "https://droper.app/d/83/Travis_Scott_x_Nike_SB_Dunk_Low_Cactus_Jack",
+    "data_lancamento": "2/mar/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low DJ Clark Kent x Primitive 112",
+    "preco": 9000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024162221835.webp",
+    "link": "https://droper.app/d/11273/Nike_SB_Dunk_Low_DJ_Clark_Kent_x_Primitive_112",
+    "data_lancamento": "29/nov/2013"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Halloween",
+    "preco": 9599.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/3062024195116641.webp",
+    "link": "https://droper.app/d/13134/Nike_SB_Dunk_Mid_Halloween",
+    "data_lancamento": "1/nov/2008"
+  },
+  {
+    "nome": "Nike SB Dunk High Send Help",
+    "preco": 9699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2232024152718606.webp",
+    "link": "https://droper.app/d/11099/Nike_SB_Dunk_High_Send_Help",
+    "data_lancamento": "24/out/2006"
+  },
+  {
+    "nome": "Concepts x Nike Dunk SB High Ugly Christmas Sweater Grey",
+    "preco": 9899.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20251216135238800-534.webp",
+    "link": "https://droper.app/d/2064/concepts_x_nike_dunk_sb_high_ugly_christmas_sweater_grey",
+    "data_lancamento": "7/dez/2013"
+  },
+  {
+    "nome": "Nike SB Dunk Low Gamma Orange",
+    "preco": 9899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/223202415926482.webp",
+    "link": "https://droper.app/d/11093/Nike_SB_Dunk_Low_Gamma_Orange",
+    "data_lancamento": "1/nov/2013"
+  },
+  {
+    "nome": "Nike SB Dunk Low Sunset French Blue",
+    "preco": 9899.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250128171539769-407.webp",
+    "link": "https://droper.app/d/18504/nike_sb_dunk_low_sunset_french_blue",
+    "data_lancamento": "1/abr/2011"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Black Silver",
+    "preco": 9999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/199202319152954.webp",
+    "link": "https://droper.app/d/7172/Nike_SB_Dunk_Mid_Black_Silver",
+    "data_lancamento": "1/jan/2011"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Pro Money Cat",
+    "preco": 9999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/12720241051846.webp",
+    "link": "https://droper.app/d/13363/Nike_SB_Dunk_Mid_Pro_Money_Cat",
+    "data_lancamento": "1/abr/2007"
+  },
+  {
+    "nome": "Ben & Jerry's x Nike SB Dunk Low Chunky Dunky",
+    "preco": 10000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2792022183111746.webp",
+    "link": "https://droper.app/d/168/Ben___Jerry_s_x_Nike_SB_Dunk_Low_Chunky_Dunky",
+    "data_lancamento": "7/jun/2020"
+  },
+  {
+    "nome": "Nike SB Dunk High Skunk 420",
+    "preco": 10000.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2842023185258138.webp",
+    "link": "https://droper.app/d/770/Nike_SB_Dunk_High_Skunk_420",
+    "data_lancamento": "20/abr/2010"
+  },
+  {
+    "nome": "Nike SB Dunk Low Brooklyn Projects",
+    "preco": 10099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2232024151952205.webp",
+    "link": "https://droper.app/d/11096/Nike_SB_Dunk_Low_Brooklyn_Projects",
+    "data_lancamento": "1/fev/2009"
+  },
+  {
+    "nome": "Nike SB Dunk Low Trickstar",
+    "preco": 10099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1042024204442395.webp",
+    "link": "https://droper.app/d/11401/Nike_SB_Dunk_Low_Trickstar",
+    "data_lancamento": "27/jun/2008"
+  },
+  {
+    "nome": "Nike SB Dunk High De La Soul",
+    "preco": 10099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2812202313523875.webp",
+    "link": "https://droper.app/d/9328/Nike_SB_Dunk_High_De_La_Soul",
+    "data_lancamento": "1/nov/2005"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Marge Simpson",
+    "preco": 10199.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/142202421346892.webp",
+    "link": "https://droper.app/d/9914/Nike_SB_Dunk_High_Pro_Marge_Simpson",
+    "data_lancamento": "1/jan/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Shanghai 2",
+    "preco": 10199.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13202417564223.webp",
+    "link": "https://droper.app/d/10425/Nike_SB_Dunk_Low_Shanghai_2",
+    "data_lancamento": "1/set/2005"
+  },
+  {
+    "nome": "Nike SB Dunk High Twin Peaks",
+    "preco": 10399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024135920380.webp",
+    "link": "https://droper.app/d/11267/Nike_SB_Dunk_High_Twin_Peaks",
+    "data_lancamento": "1/jan/2009"
+  },
+  {
+    "nome": "Brooklyn Projects x Nike SB Dunk Low Pro PRM Walk Of Fame",
+    "preco": 10499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/12720241218627.webp",
+    "link": "https://droper.app/d/13364/Brooklyn_Projects_x_Nike_SB_Dunk_Low_Pro_PRM_Walk_Of_Fame",
+    "data_lancamento": "20/jul/2013"
+  },
+  {
+    "nome": "Levis x Nike SB Dunk Low Blue Denim",
+    "preco": 10499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/253202419746991.webp",
+    "link": "https://droper.app/d/11125/Levis_x_Nike_SB_Dunk_Low_Blue_Denim",
+    "data_lancamento": "15/set/2012"
+  },
+  {
+    "nome": "Nike SB Dunk Low Green Spark Hoop Orange",
+    "preco": 10499.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250331210214109-247.webp",
+    "link": "https://droper.app/d/20800/nike_sb_dunk_low_green_spark_hoop_orange",
+    "data_lancamento": "1/out/2009"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Money Cat",
+    "preco": 10499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/127202405929447.webp",
+    "link": "https://droper.app/d/13362/Nike_SB_Dunk_Low_Pro_Money_Cat",
+    "data_lancamento": "1/abr/2007"
+  },
+  {
+    "nome": "Black Sheep x Nike SB Dunk High Paid In Full",
+    "preco": 10599.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1332024173651966.webp",
+    "link": "https://droper.app/d/10759/Black_Sheep_x_Nike_SB_Dunk_High_Paid_In_Full",
+    "data_lancamento": "1/jan/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Low Yin Yang",
+    "preco": 10699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/253202419950195.webp",
+    "link": "https://droper.app/d/11126/Nike_SB_Dunk_Low_Yin_Yang",
+    "data_lancamento": "10/fev/2016"
+  },
+  {
+    "nome": "Nike SB Dunk Low Candy Cane",
+    "preco": 10799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13202418141286.webp",
+    "link": "https://droper.app/d/10426/Nike_SB_Dunk_Low_Candy_Cane",
+    "data_lancamento": "12/nov/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pushead",
+    "preco": 10799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13202417527475.webp",
+    "link": "https://droper.app/d/10423/Nike_SB_Dunk_Low_Pushead",
+    "data_lancamento": "1/jan/2005"
+  },
+  {
+    "nome": "Nike SB Dunk High Pacman",
+    "preco": 10890.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/19220242055371.webp",
+    "link": "https://droper.app/d/10035/Nike_SB_Dunk_High_Pacman",
+    "data_lancamento": "1/ago/2009"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Taxi Tokyo",
+    "preco": 10899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/11720243020388.webp",
+    "link": "https://droper.app/d/13346/Nike_SB_Dunk_Low_Premium_Taxi_Tokyo",
+    "data_lancamento": "1/dez/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Lunar Eclipse (West)",
+    "preco": 10899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024173625678.webp",
+    "link": "https://droper.app/d/11277/Nike_SB_Dunk_Low_Lunar_Eclipse__West_",
+    "data_lancamento": "1/mar/2006"
+  },
+  {
+    "nome": "Levis x Nike SB Dunk Low Black Denim",
+    "preco": 11099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2232024152249939.webp",
+    "link": "https://droper.app/d/11097/Levis_x_Nike_SB_Dunk_Low_Black_Denim",
+    "data_lancamento": "1/jun/2012"
+  },
+  {
+    "nome": "Nike SB Dunk Low Hawaii",
+    "preco": 11099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13720231743935.webp",
+    "link": "https://droper.app/d/6161/Nike_SB_Dunk_Low_Hawaii",
+    "data_lancamento": "2/fev/2005"
+  },
+  {
+    "nome": "Nike SB Dunk Low Toxic Sea Robbin",
+    "preco": 11190.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/18320242112866.webp",
+    "link": "https://droper.app/d/10943/Nike_SB_Dunk_Low_Toxic_Sea_Robbin",
+    "data_lancamento": "1/ago/2009"
+  },
+  {
+    "nome": "Nike SB Dunk Low Reese Forbes Hunter",
+    "preco": 11299.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023153551883.webp",
+    "link": "https://droper.app/d/6990/Nike_SB_Dunk_Low_Reese_Forbes_Hunter",
+    "data_lancamento": "1/nov/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Appetite for Destruction",
+    "preco": 11399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024174711596.webp",
+    "link": "https://droper.app/d/11278/Nike_SB_Dunk_Low_Appetite_for_Destruction",
+    "data_lancamento": "1/mar/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Mama Bear",
+    "preco": 11399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/28122023141139966.webp",
+    "link": "https://droper.app/d/9333/Nike_SB_Dunk_Mid_Mama_Bear",
+    "data_lancamento": "1/jun/2006"
+  },
+  {
+    "nome": "Nike SB Dunk High Krampus",
+    "preco": 11699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/632024183350374.webp",
+    "link": "https://droper.app/d/10556/Nike_SB_Dunk_High_Krampus",
+    "data_lancamento": "5/dez/2012"
+  },
+  {
+    "nome": "Nike SB Dunk Low Black and Tan",
+    "preco": 11799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/11420240014484.webp",
+    "link": "https://droper.app/d/11403/Nike_SB_Dunk_Low_Black_and_Tan",
+    "data_lancamento": "28/fev/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Circuit Orange",
+    "preco": 11899.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241015192623462-233.webp",
+    "link": "https://droper.app/d/16021/Nike_SB_Dunk_Low_Circuit_Orange",
+    "data_lancamento": "17/ago/2017"
+  },
+  {
+    "nome": "Nike SB Dunk Low Asparagus",
+    "preco": 11899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/73202413734343.webp",
+    "link": "https://droper.app/d/10577/Nike_SB_Dunk_Low_Asparagus",
+    "data_lancamento": "1/ago/2009"
+  },
+  {
+    "nome": "Nike SB Dunk Low Carhartt Shale",
+    "preco": 11899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/442024205236998.webp",
+    "link": "https://droper.app/d/11256/Nike_SB_Dunk_Low_Carhartt_Shale",
+    "data_lancamento": "4/jun/2004"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk Low Purple Lobster",
+    "preco": 11900.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1492022132024554.webp",
+    "link": "https://droper.app/d/309/Concepts_x_Nike_SB_Dunk_Low_Purple_Lobster",
+    "data_lancamento": "14/dez/2018"
+  },
+  {
+    "nome": "Travis Scott x Nike SB Dunk Low Cactus Jack Special Box",
+    "preco": 11990.0,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414349935.webp",
+    "link": "https://droper.app/d/1206/travis_scott_x_nike_sb_dunk_low_cactus_jack_special_box",
+    "data_lancamento": "23/fev/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Sparkle",
+    "preco": 14990.9,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/127202405612507.webp",
+    "link": "https://droper.app/d/13360/Nike_SB_Dunk_Low_Pro_Sparkle",
+    "data_lancamento": "1/abr/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Pro Watermelon",
+    "preco": 14999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/127202405748832.webp",
+    "link": "https://droper.app/d/13361/Nike_SB_Dunk_Mid_Pro_Watermelon",
+    "data_lancamento": "15/ago/2013"
+  },
+  {
+    "nome": "Nike SB Dunk Low Space Tiger",
+    "preco": 14999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/183202420566555.webp",
+    "link": "https://droper.app/d/10939/Nike_SB_Dunk_Low_Space_Tiger",
+    "data_lancamento": "1/jul/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Skate or Die",
+    "preco": 14999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023152317751.webp",
+    "link": "https://droper.app/d/6985/Nike_SB_Dunk_Low_Skate_or_Die",
+    "data_lancamento": "2/fev/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Gibson",
+    "preco": 14999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2742023184326709.webp",
+    "link": "https://droper.app/d/5063/Nike_SB_Dunk_Low_Premium_Gibson",
+    "data_lancamento": "7/jan/2007"
+  },
+  {
+    "nome": "Nike SB Dunk High Papa Bear",
+    "preco": 15399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/312024192613270.webp",
+    "link": "https://droper.app/d/9387/Nike_SB_Dunk_High_Papa_Bear",
+    "data_lancamento": "1/nov/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Dorothy",
+    "preco": 15499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2232024151735933.webp",
+    "link": "https://droper.app/d/11095/Nike_SB_Dunk_Low_Dorothy",
+    "data_lancamento": "4/mar/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Dusty Cactus",
+    "preco": 15499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1042024203333160.webp",
+    "link": "https://droper.app/d/11399/Nike_SB_Dunk_Low_Dusty_Cactus",
+    "data_lancamento": "5/dez/2014"
+  },
+  {
+    "nome": "Nike SB Dunk High Pro Ferris Bueller",
+    "preco": 15499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/3062024194923747.webp",
+    "link": "https://droper.app/d/13133/Nike_SB_Dunk_High_Pro_Ferris_Bueller",
+    "data_lancamento": "1/mai/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Old Spice",
+    "preco": 15499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/127202404712534.webp",
+    "link": "https://droper.app/d/13358/Nike_SB_Dunk_Low_Pro_Old_Spice",
+    "data_lancamento": "1/ago/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low EMB Eire",
+    "preco": 15499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/15420241425792.webp",
+    "link": "https://droper.app/d/11565/Nike_SB_Dunk_Low_EMB_Eire",
+    "data_lancamento": "1/abr/2006"
+  },
+  {
+    "nome": "Nike Dunk Low Pro SB Buck",
+    "preco": 15499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/94202421848565.webp",
+    "link": "https://droper.app/d/11375/Nike_Dunk_Low_Pro_SB_Buck",
+    "data_lancamento": "1/jan/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Tokyo",
+    "preco": 15799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/247202422723954.webp",
+    "link": "https://droper.app/d/13737/Nike_SB_Dunk_Low_Tokyo",
+    "data_lancamento": "26/mai/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Piet Mondrian",
+    "preco": 16099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023153358117.webp",
+    "link": "https://droper.app/d/6989/Nike_SB_Dunk_Low_Piet_Mondrian",
+    "data_lancamento": "1/fev/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Milli Vanilli",
+    "preco": 16099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/18320242059276.webp",
+    "link": "https://droper.app/d/10940/Nike_SB_Dunk_Low_Milli_Vanilli",
+    "data_lancamento": "1/fev/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Grits",
+    "preco": 16099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/12720241348205.webp",
+    "link": "https://droper.app/d/13365/Nike_SB_Dunk_Low_Pro_Grits",
+    "data_lancamento": "11/fev/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Gulf of Mexico",
+    "preco": 16399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2532024191349307.webp",
+    "link": "https://droper.app/d/11128/Nike_SB_Dunk_Low_Gulf_of_Mexico",
+    "data_lancamento": "13/dez/2014"
+  },
+  {
+    "nome": "Nike SB Dunk Low Puff N Stuff",
+    "preco": 16399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/18320242190809.webp",
+    "link": "https://droper.app/d/10942/Nike_SB_Dunk_Low_Puff_N_Stuff",
+    "data_lancamento": "1/jul/2006"
+  },
+  {
+    "nome": "Carhartt x Nike SB Dunk Low",
+    "preco": 16999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/253202419354818.webp",
+    "link": "https://droper.app/d/11123/Carhartt_x_Nike_SB_Dunk_Low",
+    "data_lancamento": "1/jun/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Blue Hemp",
+    "preco": 17299.66,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250128163024881-155.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/2025012816300969-265.webp",
+    "link": "https://droper.app/d/18502/nike_sb_dunk_low_pro_blue_hemp",
+    "data_lancamento": "20/abr/2024"
+  },
+  {
+    "nome": "Nike SB Dunk Low PRM Coffee",
+    "preco": 17299.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/12720241649163.webp",
+    "link": "https://droper.app/d/13367/Nike_SB_Dunk_Low_PRM_Coffee",
+    "data_lancamento": "10/mai/2016"
+  },
+  {
+    "nome": "Nike SB Dunk Low Medium Mint Gym Red",
+    "preco": 17899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/312024192156638.webp",
+    "link": "https://droper.app/d/9385/Nike_SB_Dunk_Low_Medium_Mint_Gym_Red",
+    "data_lancamento": "1/jan/2012"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Maple Leaf",
+    "preco": 17999.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/11720243519877.webp",
+    "link": "https://droper.app/d/13347/Nike_SB_Dunk_Low_Premium_Maple_Leaf",
+    "data_lancamento": "1/jan/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low 720 Degrees",
+    "preco": 18499.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/132024172811453.webp",
+    "link": "https://droper.app/d/10417/Nike_SB_Dunk_Low_720_Degrees",
+    "data_lancamento": "5/jan/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Iron Man",
+    "preco": 19099.66,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20250331210334636-399.webp",
+    "link": "https://droper.app/d/20801/nike_sb_dunk_low_iron_man",
+    "data_lancamento": "1/dez/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Mosquito",
+    "preco": 19099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024163840277.webp",
+    "link": "https://droper.app/d/11274/Nike_SB_Dunk_Low_Mosquito",
+    "data_lancamento": "8/nov/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Tweed",
+    "preco": 19099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2532024185556781.webp",
+    "link": "https://droper.app/d/11119/Nike_SB_Dunk_Low_Tweed",
+    "data_lancamento": "1/set/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Bic",
+    "preco": 19399.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/192202420320160.webp",
+    "link": "https://droper.app/d/10034/Nike_SB_Dunk_Low_Pro_Bic",
+    "data_lancamento": "1/set/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Newcastle Brown Ale",
+    "preco": 19599.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1042024203940732.webp",
+    "link": "https://droper.app/d/11400/Nike_SB_Dunk_Low_Newcastle_Brown_Ale",
+    "data_lancamento": "1/jun/2008"
+  },
+  {
+    "nome": "Nike SB Dunk High Jason Voorhees",
+    "preco": 19699.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024182447304.webp",
+    "link": "https://droper.app/d/11280/Nike_SB_Dunk_High_Jason_Voorhees",
+    "data_lancamento": "27/out/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low Kuwahara Et",
+    "preco": 19899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/25320241858799.webp",
+    "link": "https://droper.app/d/11120/Nike_SB_Dunk_Low_Kuwahara_Et",
+    "data_lancamento": "1/mai/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Magnet Light Poison Green",
+    "preco": 20090.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/223202415143660.webp",
+    "link": "https://droper.app/d/11094/Nike_SB_Dunk_Low_Magnet_Light_Poison_Green",
+    "data_lancamento": "1/set/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Purple Safari",
+    "preco": 20099.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023152135404.webp",
+    "link": "https://droper.app/d/6984/Nike_SB_Dunk_Low_Purple_Safari",
+    "data_lancamento": "10/fev/2011"
+  },
+  {
+    "nome": "Nike SB Dunk High Clouds",
+    "preco": 20390.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/84202414650885.webp",
+    "link": "https://droper.app/d/11320/Nike_SB_Dunk_High_Clouds",
+    "data_lancamento": "20/jul/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low 7-Eleven",
+    "preco": 20799.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/138202414821345.webp",
+    "link": "https://droper.app/d/11250/Nike_SB_Dunk_Low_7-Eleven",
+    "data_lancamento": "19/abr/2020"
+  },
+  {
+    "nome": "Nike SB Dunk Low Un-Raygun",
+    "preco": 20890.99,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1332024171714197.webp",
+    "link": "https://droper.app/d/10752/Nike_SB_Dunk_Low_Un-Raygun",
+    "data_lancamento": "28/mar/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Strummer",
+    "preco": 20899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1042024205027592.webp",
+    "link": "https://droper.app/d/11402/Nike_SB_Dunk_Low_Strummer",
+    "data_lancamento": "1/jan/2008"
+  },
+  {
+    "nome": "Nike SB Dunk Low Baby Bear",
+    "preco": 20899.66,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/49202315327143.webp",
+    "link": "https://droper.app/d/6988/Nike_SB_Dunk_Low_Baby_Bear",
+    "data_lancamento": "1/nov/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Songkran Canvas Parachute Beige",
+    "preco": null,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260407131559196-676.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20260407131548706-414.webp",
+    "link": "https://droper.app/d/40022/nike_sb_dunk_low_songkran_canvas_parachute_beige",
+    "data_lancamento": "11/abr/2026"
+  },
+  {
+    "nome": "Antihero Skateboards x Nike SB Dunk High White",
+    "preco": null,
+    "imagem": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241118184042464-336.webp",
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241118184034628-502.webp",
+    "link": "https://droper.app/d/17030/Antihero_Skateboards_x_Nike_SB_Dunk_High_White",
+    "data_lancamento": "21/nov/2024"
+  },
+  {
+    "nome": "HUF x Nike SB Dunk Low Wait, What!? (Friends and Family)",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/17122022144642542.webp",
+    "link": "https://droper.app/d/3875/HUF_x_Nike_SB_Dunk_Low_Wait__What____Friends_and_Family_",
+    "data_lancamento": "17/dez/2022"
+  },
+  {
+    "nome": "Oski x Nike SB Dunk Low PS Great White",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/137202316036870.webp",
+    "link": "https://droper.app/d/6157/Oski_x_Nike_SB_Dunk_Low_PS_Great_White",
+    "data_lancamento": "12/mar/2022"
+  },
+  {
+    "nome": "Girls Don't Cry x Nike SB Dunk Low Coming Back Home",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2132024184757876.webp",
+    "link": "https://droper.app/d/11054/Girls_Don_t_Cry_x_Nike_SB_Dunk_Low_Coming_Back_Home",
+    "data_lancamento": "9/fev/2019"
+  },
+  {
+    "nome": "Dunk High Pro SB Comic",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/8420241402176.webp",
+    "link": "https://droper.app/d/11318/Dunk_High_Pro_SB_Comic",
+    "data_lancamento": "1/jun/2018"
+  },
+  {
+    "nome": "Nike SB Dunk Low Blue Marble",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2532024191153224.webp",
+    "link": "https://droper.app/d/11127/Nike_SB_Dunk_Low_Blue_Marble",
+    "data_lancamento": "31/mar/2015"
+  },
+  {
+    "nome": "Nike SB Dunk Low Skeletor",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/137202317134311.webp",
+    "link": "https://droper.app/d/6159/Nike_SB_Dunk_Low_Skeletor",
+    "data_lancamento": "18/mai/2011"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Black White",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/142202421291791.webp",
+    "link": "https://droper.app/d/9912/Nike_SB_Dunk_Low_Pro_Black_White",
+    "data_lancamento": "1/jan/2011"
+  },
+  {
+    "nome": "SneakersBR x Nike Dunk Low Norte",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024161033222.webp",
+    "link": "https://droper.app/d/11577/SneakersBR_x_Nike_Dunk_Low_Norte",
+    "data_lancamento": "8/set/2010"
+  },
+  {
+    "nome": "SneakersBR x Nike Dunk Low Nordeste",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024161848664.webp",
+    "link": "https://droper.app/d/11578/SneakersBR_x_Nike_Dunk_Low_Nordeste",
+    "data_lancamento": "8/set/2010"
+  },
+  {
+    "nome": "SneakersBR x Nike Dunk Low Centro-Oeste",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024162157287.webp",
+    "link": "https://droper.app/d/11579/SneakersBR_x_Nike_Dunk_Low_Centro-Oeste",
+    "data_lancamento": "8/set/2010"
+  },
+  {
+    "nome": "SneakersBR x Nike Dunk Low Sudeste",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024162312276.webp",
+    "link": "https://droper.app/d/11580/SneakersBR_x_Nike_Dunk_Low_Sudeste",
+    "data_lancamento": "8/set/2010"
+  },
+  {
+    "nome": "SneakersBR x Nike Dunk Low Sul",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024162456187.webp",
+    "link": "https://droper.app/d/11581/SneakersBR_x_Nike_Dunk_Low_Sul",
+    "data_lancamento": "8/set/2010"
+  },
+  {
+    "nome": "Nike SB Dunk Mid Dirty Money",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024145831360.webp",
+    "link": "https://droper.app/d/11576/Nike_SB_Dunk_Mid_Dirty_Money",
+    "data_lancamento": "11/mai/2010"
+  },
+  {
+    "nome": "Fábio Cristiano x Nike SB Dunk Low Custom Series 03",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1742023184759611.webp",
+    "link": "https://droper.app/d/4965/F_bio_Cristiano_x_Nike_SB_Dunk_Low_Custom_Series_03",
+    "data_lancamento": "13/nov/2008"
+  },
+  {
+    "nome": "Rodrigo Petersen x Nike SB Dunk Low Custom Series 03",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1742023185230645.webp",
+    "link": "https://droper.app/d/4966/Rodrigo_Petersen_x_Nike_SB_Dunk_Low_Custom_Series_03",
+    "data_lancamento": "13/nov/2008"
+  },
+  {
+    "nome": "Cezar Gordo x Nike SB Dunk Low Brazil Custom Series 03",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1842023165617810.webp",
+    "link": "https://droper.app/d/4972/Cezar_Gordo_x_Nike_SB_Dunk_Low_Brazil_Custom_Series_03",
+    "data_lancamento": "13/nov/2008"
+  },
+  {
+    "nome": "Concepts x Nike SB Dunk Low Red Lobster",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-lapse.us-southeast-1.linodeobjects.com/20241111202908494-302.webp",
+    "link": "https://droper.app/d/2070/Concepts_x_Nike_SB_Dunk_Low_Red_Lobster",
+    "data_lancamento": "31/mai/2008"
+  },
+  {
+    "nome": "Nike SB Dunk High Brazil Custom Series 02 Cezar Gordo",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024142625656.webp",
+    "link": "https://droper.app/d/11568/Nike_SB_Dunk_High_Brazil_Custom_Series_02_Cezar_Gordo",
+    "data_lancamento": "14/nov/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low EMB UNLV",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024134631308.webp",
+    "link": "https://droper.app/d/11560/Nike_SB_Dunk_Low_EMB_UNLV",
+    "data_lancamento": "27/out/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low What The Dunk",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/5420234512372.webp",
+    "link": "https://droper.app/d/4840/Nike_SB_Dunk_Low_What_The_Dunk",
+    "data_lancamento": "1/out/2007"
+  },
+  {
+    "nome": "MF Doom x Nike SB Dunk High",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/492023153010705.webp",
+    "link": "https://droper.app/d/6987/MF_Doom_x_Nike_SB_Dunk_High",
+    "data_lancamento": "24/jul/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low Trail End",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/14112023142024649.webp",
+    "link": "https://droper.app/d/8300/Nike_SB_Dunk_Low_Trail_End",
+    "data_lancamento": "1/jun/2007"
+  },
+  {
+    "nome": "Nike SB Dunk Low PRM EMB Doc Dog",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/154202414295613.webp",
+    "link": "https://droper.app/d/11569/Nike_SB_Dunk_Low_PRM_EMB_Doc_Dog",
+    "data_lancamento": "1/jan/2007"
+  },
+  {
+    "nome": "Flávio Samelo x Nike SB Dunk Low Custom Series 01",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1142023211212400.webp",
+    "link": "https://droper.app/d/4879/Fl_vio_Samelo_x_Nike_SB_Dunk_Low_Custom_Series_01",
+    "data_lancamento": "6/nov/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro EMB Miami",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/154202413494246.webp",
+    "link": "https://droper.app/d/11562/Nike_SB_Dunk_Low_Pro_EMB_Miami",
+    "data_lancamento": "15/jul/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Premium Golf Net",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1332024172329689.webp",
+    "link": "https://droper.app/d/10754/Nike_SB_Dunk_Low_Premium_Golf_Net",
+    "data_lancamento": "1/mai/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Lunar Eclipse (East)",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/54202417940848.webp",
+    "link": "https://droper.app/d/11276/Nike_SB_Dunk_Low_Lunar_Eclipse__East_",
+    "data_lancamento": "1/mar/2006"
+  },
+  {
+    "nome": "Fábio Cristiano x Nike SB Dunk Low Custom Series 01",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1342023212631409.webp",
+    "link": "https://droper.app/d/4919/F_bio_Cristiano_x_Nike_SB_Dunk_Low_Custom_Series_01",
+    "data_lancamento": "2/fev/2006"
+  },
+  {
+    "nome": "Cezar Gordo x Nike SB Dunk Low Brazil Custom Series",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/134202321213556.webp",
+    "link": "https://droper.app/d/4918/Cezar_Gordo_x_Nike_SB_Dunk_Low_Brazil_Custom_Series",
+    "data_lancamento": "1/jan/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low Day of the Dead",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/13720231737744.webp",
+    "link": "https://droper.app/d/6160/Nike_SB_Dunk_Low_Day_of_the_Dead",
+    "data_lancamento": "1/jan/2006"
+  },
+  {
+    "nome": "Nike SB Dunk High EMB Bic",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024135916232.webp",
+    "link": "https://droper.app/d/11564/Nike_SB_Dunk_High_EMB_Bic",
+    "data_lancamento": "1/jan/2006"
+  },
+  {
+    "nome": "Nike SB Dunk Low EMB Fileteado Blue",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/15420241479856.webp",
+    "link": "https://droper.app/d/11566/Nike_SB_Dunk_Low_EMB_Fileteado_Blue",
+    "data_lancamento": "1/jan/2006"
+  },
+  {
+    "nome": "Dunk High Pro SB 'Melvins'",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/542024133817973.webp",
+    "link": "https://droper.app/d/11264/Dunk_High_Pro_SB__Melvins_",
+    "data_lancamento": "1/set/2005"
+  },
+  {
+    "nome": "Nike Dunk Low Pro SB Vapor",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/942024214346920.webp",
+    "link": "https://droper.app/d/11377/Nike_Dunk_Low_Pro_SB_Vapor",
+    "data_lancamento": "1/ago/2005"
+  },
+  {
+    "nome": "Stussy x Nike SB Dunk Low Cherry",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/49202315257364.webp",
+    "link": "https://droper.app/d/6986/Stussy_x_Nike_SB_Dunk_Low_Cherry",
+    "data_lancamento": "1/jul/2005"
+  },
+  {
+    "nome": "Nike SB Dunk High Neptune",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/1542024135417376.webp",
+    "link": "https://droper.app/d/11563/Nike_SB_Dunk_High_Neptune",
+    "data_lancamento": "12/jun/2005"
+  },
+  {
+    "nome": "Nike SB Dunk Low Pro Jedi",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/117202425729556.webp",
+    "link": "https://droper.app/d/13344/Nike_SB_Dunk_Low_Pro_Jedi",
+    "data_lancamento": "1/mai/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Homer",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/2812202314173579.webp",
+    "link": "https://droper.app/d/9336/Nike_SB_Dunk_Low_Homer",
+    "data_lancamento": "1/jan/2004"
+  },
+  {
+    "nome": "Nike SB Dunk Low Orange Flash",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/154202413489103.webp",
+    "link": "https://droper.app/d/11561/Nike_SB_Dunk_Low_Orange_Flash",
+    "data_lancamento": "1/out/2002"
+  },
+  {
+    "nome": "Supreme x Nike Dunk High Pro SB Blue",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/8420241512581.webp",
+    "link": "https://droper.app/d/11334/Supreme_x_Nike_Dunk_High_Pro_SB_Blue",
+    "data_lancamento": "1/jan/0001"
+  },
+  {
+    "nome": "Nike Dunk High Sb Emb",
+    "preco": null,
+    "imagem": null,
+    "icone": "https://droper-media.us-southeast-1.linodeobjects.com/94202420590262.webp",
+    "link": "https://droper.app/d/11374/Nike_Dunk_High_Sb_Emb",
+    "data_lancamento": "1/jan/0001"
+  }
+]
