@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SneakerArb — Comparador de Preços StockX vs Droper</title>
+    <meta name="description" content="Compare preços de sneakers entre StockX e Droper. Encontre as melhores oportunidades de arbitragem.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header id="main-header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">⚡</span>
+                <span class="logo-text">Sneaker<span class="logo-accent">Arb</span></span>
+            </div>
+            <nav class="header-nav">
+                <div class="stat-pill" id="stat-total">
+                    <span class="stat-label">Matches</span>
+                    <span class="stat-value" id="total-matches">0</span>
+                </div>
+                <div class="stat-pill" id="stat-avg">
+                    <span class="stat-label">Diferença Média</span>
+                    <span class="stat-value" id="avg-diff">R$ 0</span>
+                </div>
+                <div class="stat-pill highlight" id="stat-best">
+                    <span class="stat-label">Melhor Oportunidade</span>
+                    <span class="stat-value" id="best-deal">—</span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Controls -->
+    <section id="controls">
+        <div class="controls-inner">
+            <div class="search-wrapper">
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <input type="text" id="search-input" placeholder="Buscar sneaker..." autocomplete="off">
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">Ordenar por</label>
+                <div class="sort-buttons" id="sort-buttons">
+                    <button class="sort-btn active" data-sort="diff-desc">
+                        <span class="sort-icon">📈</span> Maior Diferença
+                    </button>
+                    <button class="sort-btn" data-sort="diff-asc">
+                        <span class="sort-icon">📉</span> Menor Diferença
+                    </button>
+                    <button class="sort-btn" data-sort="price-desc">
+                        <span class="sort-icon">💰</span> Maior Preço
+                    </button>
+                    <button class="sort-btn" data-sort="price-asc">
+                        <span class="sort-icon">🏷️</span> Menor Preço
+                    </button>
+                    <button class="sort-btn" data-sort="pct-desc">
+                        <span class="sort-icon">📊</span> Maior % Diferença
+                    </button>
+                    <button class="sort-btn" data-sort="name-asc">
+                        <span class="sort-icon">🔤</span> A-Z
+                    </button>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">Mais barato em</label>
+                <div class="source-filter" id="source-filter">
+                    <button class="source-btn active" data-source="all">Todos</button>
+                    <button class="source-btn" data-source="stockx">StockX</button>
+                    <button class="source-btn" data-source="droper">Droper</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Product Grid -->
+    <main id="product-grid">
+        <div class="grid-container" id="grid-container">
+            <!-- Products will be injected here -->
+        </div>
+        <div class="empty-state" id="empty-state" style="display:none;">
+            <div class="empty-icon">🔍</div>
+            <h3>Nenhum produto encontrado</h3>
+            <p>Tente ajustar seus filtros ou termo de busca.</p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer id="main-footer">
+        <p>SneakerArb — Dados de StockX (USD) e Droper (BRL) • Taxa de câmbio carregada automaticamente</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
